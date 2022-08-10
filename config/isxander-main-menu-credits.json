@@ -1,0 +1,42 @@
+{
+  "main_menu": {
+    "top_left": [
+        {
+            "text": "uku's pvp modpack v0.0.1",
+            "italic": true,
+            "color": "gold"
+        },
+        {
+            "text": "Made with ",
+            "extra": [
+                {
+                    "text": "\u2764",
+                    "color": "red"
+                },
+                {
+                    "text": " by "
+                },
+                {
+                    "text": "uku",
+                    "color": "dark_aqua",
+                    "clickEvent": {
+                        "action": "open_url",
+                        "value": "https://modrinth.com/user/uku3lig"
+                    }
+                }
+            ]
+        }
+    ],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}

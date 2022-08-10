@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".DS_Store"
+hash = "156c391086aae6b0846c41c99b3424866680646c02389e299928f4464a537564"
+
+[[files]]
 file = "LICENSE"
 hash = "a8ce5dce422ea772ed83397c3f29a9286a1b0ea1f1fa38b08d8f1d51bfbc985b"
 
@@ -117,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
