@@ -1,0 +1,13 @@
+name = "Ugly Scoreboard Fix"
+filename = "uglyscoreboardfix-2.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06e68d623a98b6f4456fcb25b86bc675807cd462"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3750474
+project-id = 402437

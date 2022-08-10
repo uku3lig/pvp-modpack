@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "80e7c9fd868c28612d6e9945044e274399579ab0007285f2ec50caf006c771f3"
+metafile = true
+
+[[files]]
+file = "mods/betterhurtcam.pw.toml"
+hash = "283e05d5f67fb139e8afce46ab0d546a61759d4b25c7b25bfe99787182971ca8"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
 metafile = true
@@ -11,13 +21,28 @@ hash = "f726e4e0b1481c9fcebabb78da8c50382ee7add661b38f820fb5b6ab6f5c0d0b"
 metafile = true
 
 [[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "172ed4fe39624f927d8a828d6600dae258eca55b93127355813e62b349e09cca"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
 metafile = true
 
 [[files]]
+file = "mods/customhud.pw.toml"
+hash = "cb432e1797337baf953f033e9e02f29a9065b925f3b60e83be5cd70b7b083018"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.pw.toml"
+hash = "b38955363599622bb27fa008bb70b8c92d022af86c2adaa3be35fd7915763748"
 metafile = true
 
 [[files]]
@@ -51,8 +76,23 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/healthindicator.pw.toml"
+hash = "756b16f43c8e7029ae68a707b2b193a97461f0f5d549995322dac0fe2f795c69"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "7baba0d5b6448760f7a0ad285c82633842efeeda7714571daa477486a4899c50"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "7b70729d63b1c08854b807ffb49ec176bcea17ad143142b36697f64256268b17"
 metafile = true
 
 [[files]]
@@ -96,8 +136,23 @@ hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
 metafile = true
 
 [[files]]
+file = "mods/pinglist.pw.toml"
+hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
+metafile = true
+
+[[files]]
+file = "mods/potioncounter.pw.toml"
+hash = "92ca87f7d97e40c6ae755ad3c8e6bde745c3c61b845c6f4ecf0f7e23bc690189"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "2056e66a16b6e3bbef4e56eaeddc744e92acee372ebd8a3c7c90750170e61665"
+metafile = true
+
+[[files]]
+file = "mods/rebind-all-the-keys.pw.toml"
+hash = "b3f659f479ff39409de60807048612643910025e34fe77697c3a749f5736d5c2"
 metafile = true
 
 [[files]]
@@ -121,6 +176,21 @@ hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
 
 [[files]]
+file = "mods/ugly-scoreboard-fix.pw.toml"
+hash = "67d080816182c2fb307ec9027cc5dd3f12b68d7452b0075fafcabf1142e2dbb1"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "5f0149bf9a2432a49eb61cf788fce081234ce32d71813485c680b5e24adb875e"
+metafile = true
+
+[[files]]
+file = "mods/why-am-i-on-fire.pw.toml"
+hash = "fe6ed5bf9272cb29b6652b3b04759768a7a65ebf52bccfb5caa3c5d07ef6415d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+hash = "dcad1b37cf2e8ae2dd06fd545a7ff60c58cb95fea4f48e1b07a4eb9d28efab88"
 metafile = true

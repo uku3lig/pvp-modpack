@@ -1,0 +1,13 @@
+name = "PotionCounter"
+filename = "potioncounter-1.0.0+1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JzdjByS4/versions/1.0.0+1.18/potioncounter-1.0.0%2B1.18.jar"
+hash-format = "sha1"
+hash = "6e957ac45e42c60aac26617939f509c27b5ed005"
+
+[update]
+[update.modrinth]
+mod-id = "JzdjByS4"
+version = "pnK8qhpf"

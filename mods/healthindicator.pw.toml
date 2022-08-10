@@ -1,0 +1,13 @@
+name = "HealthIndicator"
+filename = "healthindicator-1.0.0+1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gVFdvNDw/versions/1.0.0+1.18/healthindicator-1.0.0%2B1.18.jar"
+hash-format = "sha1"
+hash = "d70366b9e7f36adf960e8dfd5942be3e11bc1ebd"
+
+[update]
+[update.modrinth]
+mod-id = "gVFdvNDw"
+version = "1prAp00W"
