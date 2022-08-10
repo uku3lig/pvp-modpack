@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "a8ce5dce422ea772ed83397c3f29a9286a1b0ea1f1fa38b08d8f1d51bfbc985b"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "80e7c9fd868c28612d6e9945044e274399579ab0007285f2ec50caf006c771f3"
 metafile = true
@@ -92,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "7b70729d63b1c08854b807ffb49ec176bcea17ad143142b36697f64256268b17"
+hash = "22bc3a3787b95afa0c94d683df9116695ad80e86d4f58770bcb397709d1ecc8e"
 metafile = true
 
 [[files]]
