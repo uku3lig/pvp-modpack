@@ -1,0 +1,5 @@
+enabled = true
+showUpgrades = false
+position = "BOTTOM_LEFT"
+morePotions = false
+disabledPotions = []
