@@ -207,3 +207,8 @@ metafile = true
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
 hash = "dcad1b37cf2e8ae2dd06fd545a7ff60c58cb95fea4f48e1b07a4eb9d28efab88"
 metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
