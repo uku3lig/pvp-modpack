@@ -1,12 +1,72 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "156c391086aae6b0846c41c99b3424866680646c02389e299928f4464a537564"
-
-[[files]]
 file = "LICENSE"
 hash = "a8ce5dce422ea772ed83397c3f29a9286a1b0ea1f1fa38b08d8f1d51bfbc985b"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "b3b02e1e4a10a26d4bb7f80de2086cee948d681ed238d869d73c8872949c4965"
+
+[[files]]
+file = "config/yosbr/config/betterhurtcam.toml"
+hash = "e7f10a538dfa16c109d2485835ea0bfe03b9a1b4cfd56fe32361dcb63227410e"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "8cad7a5868d8b41dc7f6402da59e61d6fb588f355b39e312da80bc9f3543ff5d"
+
+[[files]]
+file = "config/yosbr/config/custom-hud/config.json"
+hash = "d3edcc8cc6e1a965fd20ee116dcfffdb4f940abf89fa11584c05817bb2d1fc2f"
+
+[[files]]
+file = "config/yosbr/config/custom-hud/profile1.txt"
+hash = "6c41f626e849f2f9af6b3132412c0790fa43549f3be3abd501879088035032f8"
+
+[[files]]
+file = "config/yosbr/config/durabilityviewer.json"
+hash = "183a4d512d987f5cc86739a1c8f6fa6cbf45a53d369c55504e74e9bb39047ab6"
+
+[[files]]
+file = "config/yosbr/config/healthindicator.toml"
+hash = "e624137ab62fba1e8414a4d601056c555a0bf0155c5420858d451b3e874e5a90"
+
+[[files]]
+file = "config/yosbr/config/inventoryhud.json"
+hash = "b412a575f4d9e3f8590004239237dd4230b9ff28b4bb02c5f16bb8fbabb38482"
+
+[[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "559b93d6f263f0ea950265e2910947dc05172bfab2c83a4bbb29952fff228c9e"
+
+[[files]]
+file = "config/yosbr/config/potioncounter.toml"
+hash = "cedb69cc670f2590ed397a32bab379f89525f56a12599d56195ebce3481b0166"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "dcea88029e1294f78cd7f2aea07411ee41f6a60ee028ec79b616776a1d83dc38"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "02f8b740d03e1a5fb4354b6b6abfcf8716e99c51572e43f4feabf59837626faa"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "ebbaac99761fc2fd99e851084a3382d28091699e6b8ac379eb49b0ee5dee9a04"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "13d41e5bef74b9191bf87a9a23b4a274c7afdb2b10ebb5cc73a3b4cd3bd6db45"
+
+[[files]]
+file = "config/yosbr/config/xaeropatreon.txt"
+hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "beb0e35727d44140131173bbf57a9cafcc1a36ca5b5058457f8c6f506d0388f1"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -20,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
+hash = "0c76984563c7d1f4d08b94cd375d3507dec6e013ad7f7de1993718e50ce2b666"
 metafile = true
 
 [[files]]
@@ -155,12 +215,12 @@ metafile = true
 
 [[files]]
 file = "mods/potioncounter.pw.toml"
-hash = "92ca87f7d97e40c6ae755ad3c8e6bde745c3c61b845c6f4ecf0f7e23bc690189"
+hash = "e0b7bae3320933ba8407cec81dd0144b783fdcd5ea704c8cf671a55f6fdc10d4"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "2056e66a16b6e3bbef4e56eaeddc744e92acee372ebd8a3c7c90750170e61665"
+hash = "8b0a7e5a2fdd7c1bc92f559763776c6fee5aecb31256c494ace271bc624bcdf1"
 metafile = true
 
 [[files]]
@@ -170,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "e82e252278eb697ed7620218aeb99ce62ee68987414ee43cba500d8452c85120"
+hash = "24f11fa273c9e8d1a2b3a7b14ecc448e01bfdc97cf8eeb23fe465b9989ba5ef4"
 metafile = true
 
 [[files]]
@@ -195,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "5f0149bf9a2432a49eb61cf788fce081234ce32d71813485c680b5e24adb875e"
+hash = "437d19463ca3f2fa19573a74491b959517fd598353d363577e1f0fd8c233d4a1"
 metafile = true
 
 [[files]]
