@@ -2,9 +2,10 @@ version:2975
 autoJump:false
 enableVsync:false
 bobView:false
-darkMojangStudiosBackground:true
 fov:0.5
 gamma:12.0
+fovEffectScale:0.0
+guiScale:2
 renderClouds:false
 rawMouseInput:true
 skipMultiplayerWarning:true
