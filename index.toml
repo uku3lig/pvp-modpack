@@ -230,12 +230,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "24f11fa273c9e8d1a2b3a7b14ecc448e01bfdc97cf8eeb23fe465b9989ba5ef4"
+hash = "2ece972fd1306a38ca278d9da23656c73bc103df57709a4bdac0a0271a646f34"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "f234a8e383d2145966b28900ca77012c1fe916e4c599c65a7f0f68acd4efbca1"
+hash = "52ba338bab4dd378d56e0188ef9b66d7626b62b40ab2d324c224e99d15a7324a"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "dcad1b37cf2e8ae2dd06fd545a7ff60c58cb95fea4f48e1b07a4eb9d28efab88"
+hash = "fa97b968a511605caa927b9278bae8030c2bc43a7e3339e3a22fc88b300d199e"
 metafile = true
 
 [[files]]
