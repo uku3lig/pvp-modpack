@@ -1,6 +1,6 @@
 name = "ukus-pvp-modpack"
 author = "uku"
-version = "0.0.2+mc1.18.2"
+version = "0.0.3+mc1.18.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "70ea60650d3665b5428e34d953d0243ac6c35f7785b8b69fbea43fe9492366ce"
 
 [versions]
 minecraft = "1.18.2"
-quilt = "0.17.1"
+quilt = "0.17.4"
