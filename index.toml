@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/healthindicator.pw.toml"
-hash = "756b16f43c8e7029ae68a707b2b193a97461f0f5d549995322dac0fe2f795c69"
+hash = "b96dd5bbab849e9a1675c1b9ab4f4b109f2661ae8f82675407de4768fe52d55e"
 metafile = true
 
 [[files]]
