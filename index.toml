@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/customhud.pw.toml"
-hash = "cb432e1797337baf953f033e9e02f29a9065b925f3b60e83be5cd70b7b083018"
+hash = "5f90a5f93a31de5453ca54d867c39daf5a24816391b133ce9c96668e473fb89f"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "686e7208edaa2689b41630cc78ea777911f07ef98a8fe33ddafecf8b5b61a8ed"
+hash = "936e63e710864ffe78df9aad07a4f60fe0db5714ce735b9a86220ece6842569c"
 metafile = true
 
 [[files]]
@@ -141,11 +141,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
-metafile = true
-
-[[files]]
-file = "mods/healthindicator.pw.toml"
-hash = "b96dd5bbab849e9a1675c1b9ab4f4b109f2661ae8f82675407de4768fe52d55e"
 metafile = true
 
 [[files]]
@@ -230,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/rebind-all-the-keys.pw.toml"
-hash = "b3f659f479ff39409de60807048612643910025e34fe77697c3a749f5736d5c2"
+hash = "b25eff5cd0f35ec0cba8c94bade352ce6a791dcc65515ac70dfd7aa18100a1de"
 metafile = true
 
 [[files]]

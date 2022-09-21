@@ -1,13 +1,11 @@
 name = "RebindAllTheKeys"
-filename = "rebind-all-the-keys-1.1.1+1.18.jar"
+filename = "rebind-all-the-keys-1.2.0-beta.1+1.19.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TpKqzzMu/versions/v1.1.1+1.18/rebind-all-the-keys-1.1.1+1.18.jar"
-hash-format = "sha1"
-hash = "fb1e3843b02a9ff6b582adda4f8572a073ffb27e"
+url = "https://cdn.modrinth.com/data/TpKqzzMu/versions/v1.2.0-beta.1+1.19/rebind-all-the-keys-1.2.0-beta.1%2B1.19.jar"
 
 [update]
 [update.modrinth]
 mod-id = "TpKqzzMu"
-version = "8dsKxOft"
+version = "fWUq7b37"
