@@ -129,6 +129,11 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "2f20c0c59809a3072e764676ff2171e9d20494ed2255ea26a9af046f621154ef"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
@@ -201,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "3d4e2da11e8a0abf3ca6109630934a7fa400ed49cd6a871b2862abf252f9ada7"
+metafile = true
+
+[[files]]
+file = "mods/nowheel.pw.toml"
+hash = "613fbc12806cb1ebabc3a89ed14a66598275f6383a9e1be10a4de96e1cd64383"
 metafile = true
 
 [[files]]

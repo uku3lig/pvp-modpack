@@ -1,0 +1,13 @@
+name = "NoWheel"
+filename = "nowheel-1.1.0+mc1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GNhuDBbS/versions/Y2hRMZqC/nowheel-1.1.0%2Bmc1.19.jar"
+hash-format = "sha1"
+hash = "ea983a8fc790e7a57723d355ec6ebd3d01a3b3d7"
+
+[update]
+[update.modrinth]
+mod-id = "GNhuDBbS"
+version = "Y2hRMZqC"
