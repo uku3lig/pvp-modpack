@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "ea6db77eedf358ad059f0d57a9eff50d6c7719e4267a836c08e247b08a9d43fc"
+hash = "9d66f314a207c296afa1fedca03a78f3e4352350358a415ae04c25252bd02957"
 metafile = true
 
 [[files]]
