@@ -284,5 +284,13 @@ hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
+file = "resourcepacks/TheArtOfSaturation.zip"
+hash = "1a04c2e2e65c4ec5727f173c0783d96a661e05828c60bf2e9640707027197405"
+
+[[files]]
+file = "resourcepacks/uku3lig-Totem-pv9.zip"
+hash = "67296b9011fc74180513ac0c47b172e486fa5e0650532cad7912f30a02d7d0fe"
+
+[[files]]
 file = "resourcepacks/vanillaplus-v2.zip"
 hash = "0869f9767b59addcb3f37bef714391d2d7e463e75b520e579b038930954ec23b"
