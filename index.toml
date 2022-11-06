@@ -79,6 +79,11 @@ hash = "3e9cb96676eddcb6d3c488553e9e5aab850bc710ddd415cf79d40c95129d0c87"
 metafile = true
 
 [[files]]
+file = "mods/boosted-brightness.pw.toml"
+hash = "5d7d1c6d7d68f972478ccfd02820f18f3db5e761ecf5965d9e1e151a8a75938a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
 metafile = true
@@ -100,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/customhud.pw.toml"
-hash = "5f90a5f93a31de5453ca54d867c39daf5a24816391b133ce9c96668e473fb89f"
+hash = "c2bfaeb09dc78cf0d1f08de47298c461db50b07041a56aa3316ae0ba6803b160"
 metafile = true
 
 [[files]]

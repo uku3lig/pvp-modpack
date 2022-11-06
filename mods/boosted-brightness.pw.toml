@@ -1,0 +1,13 @@
+name = "Boosted Brightness"
+filename = "boosted-brightness-2.1.2+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Abyk2Hrg/versions/2.1.2/boosted-brightness-2.1.2%2B1.19.jar"
+hash-format = "sha1"
+hash = "7ac296b72774b64e3287794d2b5f143ba807cc63"
+
+[update]
+[update.modrinth]
+mod-id = "Abyk2Hrg"
+version = "tEL5CmDz"
