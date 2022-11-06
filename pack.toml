@@ -1,12 +1,12 @@
 name = "ukus-pvp-modpack"
 author = "uku"
-version = "0.0.5+mc1.19.2"
+version = "0.0.6+mc1.19.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c99b574d7c2a82bab13a8dd99967e677709dfb5838c34ac511bfd649d795d53d"
+hash = "67cac72214cee9af5e196bba1791e6df940eb417ab64359968095b575f7e3dc9"
 
 [versions]
 minecraft = "1.19.2"
