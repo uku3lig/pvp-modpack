@@ -33,6 +33,10 @@ file = "config/yosbr/config/healthindicator.toml"
 hash = "e624137ab62fba1e8414a4d601056c555a0bf0155c5420858d451b3e874e5a90"
 
 [[files]]
+file = "config/yosbr/config/inspecio.json"
+hash = "cb13ef2f82e76d55c04ab1ce6c7adb5e729aec15b8bf81f8955bc50f2a7eaaac"
+
+[[files]]
 file = "config/yosbr/config/inventoryhud.json"
 hash = "b412a575f4d9e3f8590004239237dd4230b9ff28b4bb02c5f16bb8fbabb38482"
 
@@ -43,6 +47,10 @@ hash = "2af6db6f185670a1b010f35bf604b69a009a7a7e831367237dfddf27f7bc786b"
 [[files]]
 file = "config/yosbr/config/potioncounter.toml"
 hash = "cedb69cc670f2590ed397a32bab379f89525f56a12599d56195ebce3481b0166"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "b6aeabae34a5d6eea0d60e713ef6ab0668ab14595e5244beae651e20a54014f2"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -66,7 +74,7 @@ hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5f713493bd3647a95bee848214fd961d8016326eef179f066da12c22bf929013"
+hash = "8d1b1bd28fcc4f2de8c7cfe435bf3a11bc00e85e444db9c3d95cb982534d3ce2"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -360,12 +368,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/TheArtOfSaturation.zip"
-hash = "1a04c2e2e65c4ec5727f173c0783d96a661e05828c60bf2e9640707027197405"
+hash = "b984afeb1914850de9e93fb4bee586c42db41b55d650bc0dc428a90efc1f5d72"
+
+[[files]]
+file = "resourcepacks/VanillaPlusV2-1.19.zip"
+hash = "36ffa0851f7706ab9f28841c755cce6b7e63298d58fbc3986a52d5e6b6e7e8e4"
 
 [[files]]
 file = "resourcepacks/uku3lig-Totem-pv9.zip"
 hash = "67296b9011fc74180513ac0c47b172e486fa5e0650532cad7912f30a02d7d0fe"
-
-[[files]]
-file = "resourcepacks/vanillaplus-v2.zip"
-hash = "0869f9767b59addcb3f37bef714391d2d7e463e75b520e579b038930954ec23b"
