@@ -3,11 +3,11 @@ filename = "completeconfig-2.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/GtqG8z1h/versions/2.0.0/completeconfig-2.0.0.jar"
 hash-format = "sha1"
 hash = "86bf93dfe498501a0e630b360b3666304265ea1c"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3821056
-project-id = 381257
+[update.modrinth]
+mod-id = "GtqG8z1h"
+version = "zaC01d1T"

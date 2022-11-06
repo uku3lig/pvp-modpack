@@ -1,13 +1,13 @@
 name = "Ugly Scoreboard Fix"
 filename = "uglyscoreboardfix-2.7.0.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/8bcFGNZj/versions/H4ofPSdE/uglyscoreboardfix-2.7.0.jar"
 hash-format = "sha1"
 hash = "369f1a923c87df50b732bd4e08b473d928801c61"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3940758
-project-id = 402437
+[update.modrinth]
+mod-id = "8bcFGNZj"
+version = "H4ofPSdE"

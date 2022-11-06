@@ -1,6 +1,7 @@
-version:2975
+version:3120
 autoJump:false
 enableVsync:false
+directionalAudio:true
 bobView:false
 fov:0.5
 gamma:12.0
@@ -9,6 +10,8 @@ guiScale:2
 renderClouds:false
 rawMouseInput:true
 skipMultiplayerWarning:true
+advancedItemTooltips:true
+resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","file/TheArtOfSaturation.zip"]
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.inventoryhud.toggle:key.keyboard.unknown

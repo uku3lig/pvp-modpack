@@ -69,8 +69,18 @@ file = "config/yosbr/options.txt"
 hash = "5f713493bd3647a95bee848214fd961d8016326eef179f066da12c22bf929013"
 
 [[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true
 
 [[files]]
@@ -81,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/boosted-brightness.pw.toml"
 hash = "5d7d1c6d7d68f972478ccfd02820f18f3db5e761ecf5965d9e1e151a8a75938a"
+metafile = true
+
+[[files]]
+file = "mods/brb.pw.toml"
+hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
 metafile = true
 
 [[files]]
@@ -95,7 +110,12 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
-hash = "c38e8a0abc8f71ec82439c0a8a59677b4e13c673cca28793f00f9ea7cc40a10e"
+hash = "705467dbef3e51481597a5ba871aa24a6aedac55791ae04e8c3dd77ea2ae55fd"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
 
 [[files]]
@@ -106,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/customhud.pw.toml"
 hash = "c2bfaeb09dc78cf0d1f08de47298c461db50b07041a56aa3316ae0ba6803b160"
+metafile = true
+
+[[files]]
+file = "mods/dcch.pw.toml"
+hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
 
 [[files]]
@@ -154,6 +179,11 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/hatlist.pw.toml"
+hash = "918e3862f2c6d3185ebc72b3955e3f209c973ac5d27b2b7d7fd7b225bbb25d89"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
@@ -171,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
@@ -199,8 +234,18 @@ hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
@@ -239,6 +284,11 @@ hash = "47b79f18581c1783f795640a8aafb0a4de4efd0f108bbf02f04209589e41af02"
 metafile = true
 
 [[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
+metafile = true
+
+[[files]]
 file = "mods/rebind-all-the-keys.pw.toml"
 hash = "b1d2c566b87b0467ee4c53a64f2f659536d7a1e74e6546a788b1425ffd4284ed"
 metafile = true
@@ -246,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "1aae05e6f09e1883875e38bb77479d049fbc64d60a2215133fa747ed512205b2"
 metafile = true
 
 [[files]]
@@ -264,8 +319,13 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "6230511311dcd1e74e10121b78b1e6fb47d28f3fb5b2ecda533c7094a16862c0"
+metafile = true
+
+[[files]]
 file = "mods/ugly-scoreboard-fix.pw.toml"
-hash = "a88c145d63ccd46bf139cf55dc42f4d9c6150dba5d93b0fe0937870b089aadb1"
+hash = "b9223a5c5af151fee2e0601fb03f710aa9baf1093d76d4269f0c5a7657917350"
 metafile = true
 
 [[files]]
