@@ -42,7 +42,7 @@ hash = "b412a575f4d9e3f8590004239237dd4230b9ff28b4bb02c5f16bb8fbabb38482"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "2af6db6f185670a1b010f35bf604b69a009a7a7e831367237dfddf27f7bc786b"
+hash = "ced10dac7b4abb6c4120f441c41a2678c420cb2df8b7f6accd7b237f9ff2cc7d"
 
 [[files]]
 file = "config/yosbr/config/potioncounter.toml"
