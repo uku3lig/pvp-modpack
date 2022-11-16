@@ -262,6 +262,11 @@ hash = "741381be667a7b124ce60ba17fca9207369bd6ead4e58ce64fa140aff95f8159"
 metafile = true
 
 [[files]]
+file = "mods/multiconnect.pw.toml"
+hash = "fb37c5d83d6827c4b3cf2b5e7dc01b90b86374527ed05f68e8c01f030f265212"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "29343584d66805c0d453bbd6a04bde62119a372ad6f2be32203a057cd5dd639b"
 metafile = true
