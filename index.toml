@@ -172,6 +172,11 @@ hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "a5f47659fcd7300b84571ef6461d0461b8a1556642fa845b8955902aeaf59c9b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
 metafile = true
@@ -284,11 +289,6 @@ metafile = true
 [[files]]
 file = "mods/potioncounter.pw.toml"
 hash = "b41417e485e029b15c516640973fc1c8e2d0964d26fae6de26171e30d3f0d9d1"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "47b79f18581c1783f795640a8aafb0a4de4efd0f108bbf02f04209589e41af02"
 metafile = true
 
 [[files]]
