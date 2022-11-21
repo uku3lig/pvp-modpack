@@ -1,13 +1,13 @@
 name = "Why Am I on Fire?"
-filename = "whyamionfire-1.1.2.jar"
+filename = "whyamionfire-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jwslX1Al/versions/1.1.2/whyamionfire-1.1.2.jar"
+url = "https://cdn.modrinth.com/data/jwslX1Al/versions/gDSWLZhx/whyamionfire-1.2.0.jar"
 hash-format = "sha1"
-hash = "4186af37644d9f89b2b1ceefb77addedbfdf0c69"
+hash = "1091ed307eda106852e888ff5f69f2fb3e6d7229"
 
 [update]
 [update.modrinth]
 mod-id = "jwslX1Al"
-version = "lL2yBvG6"
+version = "gDSWLZhx"

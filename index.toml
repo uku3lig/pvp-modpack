@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterhurtcam.pw.toml"
-hash = "3e9cb96676eddcb6d3c488553e9e5aab850bc710ddd415cf79d40c95129d0c87"
+hash = "99a8ce09ba9ef4ad3e35a9924d24826ec5998e8e1a00f73e8a35df9c2e543798"
 metafile = true
 
 [[files]]
@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
-hash = "705467dbef3e51481597a5ba871aa24a6aedac55791ae04e8c3dd77ea2ae55fd"
+hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a5f47659fcd7300b84571ef6461d0461b8a1556642fa845b8955902aeaf59c9b"
+hash = "c8b4affa4d08e91c1806615f36acd403d29a43e8b7a61d1141e492b0b593809e"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
+hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/nowheel.pw.toml"
-hash = "613fbc12806cb1ebabc3a89ed14a66598275f6383a9e1be10a4de96e1cd64383"
+hash = "fdf8c836cc43d2bf853a2bb2150a2d08953fe059476dcf2c86ec8730abe7fc38"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/potioncounter.pw.toml"
-hash = "b41417e485e029b15c516640973fc1c8e2d0964d26fae6de26171e30d3f0d9d1"
+hash = "10e46c19e6a5641701468404bc478dca1ab907fe3b8f5662e832f36e8a6f90ee"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "e31f409ab01c4df8b9b678cb533722b852c38d1563f6ead0ef40f282b17c45ff"
+hash = "fbc7cf43256806a71a7ea1ee1c05bccfd94be736c5def2c2a5ed1908753e501f"
 metafile = true
 
 [[files]]
@@ -328,17 +328,17 @@ metafile = true
 
 [[files]]
 file = "mods/ukulib.pw.toml"
-hash = "c3c153032bdc82ed42317d1ff983983df8e56ea82d6aec41e8bb2a233e51d03b"
+hash = "6f436bf140fc6eee0e288dc8c5b11230d416ca54dd5bcb2aca8021171d463245"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "1d0adb6150edfe74a7a51ce4069d399330fdd920b4f4ad4dc39de7a588490f8e"
+hash = "c887fcea6968ff6069e59c9398f4b57dae4f3038e5f80453a074d35284b5acf4"
 metafile = true
 
 [[files]]
 file = "mods/why-am-i-on-fire.pw.toml"
-hash = "fe6ed5bf9272cb29b6652b3b04759768a7a65ebf52bccfb5caa3c5d07ef6415d"
+hash = "4e05d69954a46ff7c6d7efd3700ddabc745fa5f52d93f0638857c98f1a2f1244"
 metafile = true
 
 [[files]]
