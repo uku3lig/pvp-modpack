@@ -97,6 +97,11 @@ hash = "99a8ce09ba9ef4ad3e35a9924d24826ec5998e8e1a00f73e8a35df9c2e543798"
 metafile = true
 
 [[files]]
+file = "mods/blockify.pw.toml"
+hash = "f1a1580c540fdc4dd7f0cfaedfca35c146d235ccb76195ad479a2a92170824b1"
+metafile = true
+
+[[files]]
 file = "mods/boosted-brightness.pw.toml"
 hash = "5d7d1c6d7d68f972478ccfd02820f18f3db5e761ecf5965d9e1e151a8a75938a"
 metafile = true

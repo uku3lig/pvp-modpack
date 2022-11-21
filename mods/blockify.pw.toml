@@ -1,0 +1,13 @@
+name = "Blockify"
+filename = "blockify-1.19.2-1.2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X5aijFqA/versions/1.2.4/blockify-1.19.2-1.2.4.jar"
+hash-format = "sha1"
+hash = "9aa1dd2b332a38678b2f53b2e66c82d45744d5c6"
+
+[update]
+[update.modrinth]
+mod-id = "X5aijFqA"
+version = "MtfGmcUn"
