@@ -88,17 +88,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
+hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
 metafile = true
 
 [[files]]
 file = "mods/betterhurtcam.pw.toml"
 hash = "99a8ce09ba9ef4ad3e35a9924d24826ec5998e8e1a00f73e8a35df9c2e543798"
-metafile = true
-
-[[files]]
-file = "mods/blockify.pw.toml"
-hash = "f1a1580c540fdc4dd7f0cfaedfca35c146d235ccb76195ad479a2a92170824b1"
 metafile = true
 
 [[files]]
@@ -178,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c8b4affa4d08e91c1806615f36acd403d29a43e8b7a61d1141e492b0b593809e"
+hash = "014aa43e2754f02f0503664394ba6b7a86e9fd10ed455c6521376546d75f843c"
 metafile = true
 
 [[files]]
@@ -188,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "69a1b873db6d2dc35048481fc9e2b563ec6508276edfbda220a80301d665acce"
+hash = "d0835439ed4f894b919fbc595a8a28cc61aee802ff873d1c6bc6b883b9666a12"
 metafile = true
 
 [[files]]
@@ -283,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/nowheel.pw.toml"
-hash = "fdf8c836cc43d2bf853a2bb2150a2d08953fe059476dcf2c86ec8730abe7fc38"
+hash = "31a9656c599e9f01092f6ae8338a5400106dc994aff879a656b295dcc3d8d02f"
 metafile = true
 
 [[files]]
