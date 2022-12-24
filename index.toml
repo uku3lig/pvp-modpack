@@ -2,387 +2,305 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "a8ce5dce422ea772ed83397c3f29a9286a1b0ea1f1fa38b08d8f1d51bfbc985b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "61f93c48141de7ab7fcf8b76744e9bbbbcddd07e37647c6012cc82fb0ebe1014"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
-hash = "b3b02e1e4a10a26d4bb7f80de2086cee948d681ed238d869d73c8872949c4965"
 
 [[files]]
 file = "config/yosbr/config/betterhurtcam.toml"
-hash = "e7f10a538dfa16c109d2485835ea0bfe03b9a1b4cfd56fe32361dcb63227410e"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "8cad7a5868d8b41dc7f6402da59e61d6fb588f355b39e312da80bc9f3543ff5d"
 
 [[files]]
 file = "config/yosbr/config/custom-hud/config.json"
-hash = "d3edcc8cc6e1a965fd20ee116dcfffdb4f940abf89fa11584c05817bb2d1fc2f"
 
 [[files]]
 file = "config/yosbr/config/custom-hud/profile1.txt"
-hash = "f482603a3837e9cdf2934eed0b36ce7981e86bb8eadcf6a50ed9c81440adc47f"
 
 [[files]]
 file = "config/yosbr/config/durabilityviewer.json"
-hash = "183a4d512d987f5cc86739a1c8f6fa6cbf45a53d369c55504e74e9bb39047ab6"
 
 [[files]]
 file = "config/yosbr/config/healthindicator.toml"
-hash = "e624137ab62fba1e8414a4d601056c555a0bf0155c5420858d451b3e874e5a90"
 
 [[files]]
 file = "config/yosbr/config/inspecio.json"
-hash = "cb13ef2f82e76d55c04ab1ce6c7adb5e729aec15b8bf81f8955bc50f2a7eaaac"
 
 [[files]]
 file = "config/yosbr/config/inventoryhud.json"
-hash = "b412a575f4d9e3f8590004239237dd4230b9ff28b4bb02c5f16bb8fbabb38482"
 
 [[files]]
 file = "config/yosbr/config/potioncounter.toml"
-hash = "cedb69cc670f2590ed397a32bab379f89525f56a12599d56195ebce3481b0166"
 
 [[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
-hash = "b6aeabae34a5d6eea0d60e713ef6ab0668ab14595e5244beae651e20a54014f2"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "dcea88029e1294f78cd7f2aea07411ee41f6a60ee028ec79b616776a1d83dc38"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "02f8b740d03e1a5fb4354b6b6abfcf8716e99c51572e43f4feabf59837626faa"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "ebbaac99761fc2fd99e851084a3382d28091699e6b8ac379eb49b0ee5dee9a04"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "13d41e5bef74b9191bf87a9a23b4a274c7afdb2b10ebb5cc73a3b4cd3bd6db45"
 
 [[files]]
 file = "config/yosbr/config/xaeropatreon.txt"
-hash = "8f416b1035da696f526b1cc83494f348616a6603f0091b6ec11ee84e1b70aa09"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "aff75ca854445e988ec96bc6d104c3425dae55bff60113371ce83996e560c28b"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
-hash = "1032be27cba97e6f12e060b210d7df3d3f3cae3099a66f1b1bb4c13b17786016"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "44747e64b28a91cfc1468e14dbb55ac960b4213a20f59fd4116bf817970c6422"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b379855a3b75007c6548fc27dc2f6ae59e054d09dc77ed3f41aff79f537cc9cc"
 metafile = true
 
 [[files]]
 file = "mods/betterhurtcam.pw.toml"
-hash = "eb741f7a68a315de7d699d6e6267004a479da3b32b260eb64b97ad039a57b569"
 metafile = true
 
 [[files]]
 file = "mods/boosted-brightness.pw.toml"
-hash = "e1e13303302564f0f7c0eaf3acdebb2125a0c4f15725721a4db1dcc59cc6fcea"
 metafile = true
 
 [[files]]
 file = "mods/brb.pw.toml"
-hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "102baae65f09499fe9881590b64e8f12cbbac22c4b069c437fd200478cd0da64"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
-hash = "59fe42f48e94d896a36304328b07ce68e9a799b0f784d0d460d95603c72397f7"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "18f046ed2181bbfbfb07b1db22f8babed47a40d8d80f204bd9e5574a5d9cfb3b"
 metafile = true
 
 [[files]]
 file = "mods/customhud.pw.toml"
-hash = "c2bfaeb09dc78cf0d1f08de47298c461db50b07041a56aa3316ae0ba6803b160"
 metafile = true
 
 [[files]]
 file = "mods/dcch.pw.toml"
-hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "d02024521821336e40652c36c675ee520b4137ed73953e98f21bcf8a55f6a583"
 metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.pw.toml"
-hash = "7128ef61169fb41983691feebd3119798ef3c1b3eefeebe1275c4e891d93bdaa"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
 metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "2d604a088e97a8c065869b51c4299934c75fb8aaa3f4265da8fd84f7c2362aee"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
 
 [[files]]
 file = "mods/hatlist.pw.toml"
-hash = "0676617c4c7cf532284e3f7a477323b3c4472b76a67f30037e8f224f8f9966ee"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "77454bd9cdca6ffd16d96d445021360cbc669481d17abf06bbe1e672d431998a"
 metafile = true
 
 [[files]]
 file = "mods/inspecio.pw.toml"
-hash = "af7cf2ac7935a653fbb7d7bb69a0160c6c96ad61834e4f55076ad31c21a3b39c"
 metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "7fffcce3f4ed60a994d0acc0c18ebcf87fa10778a13913ba23340847acbea581"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "35430da98294d5f94636277bf9705ada157eb6122d0e8272f5c3cb6ef76ebfd2"
 metafile = true
 
 [[files]]
 file = "mods/item-model-fix.pw.toml"
-hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
 metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
 
 [[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
-hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0db264018c25e9c85d32e5b510ac12274616f44ee51841e0118c24b320e167b5"
 metafile = true
 
 [[files]]
 file = "mods/multiconnect.pw.toml"
-hash = "07b6118170c84510601705a4a34e2b0c3352ebfef5aca06b1a4ab6183eed3afc"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "945b097fe9fe561eb72dc811fd49f8f3dd43d88f7689c11a4a0863f70a4d39b8"
 metafile = true
 
 [[files]]
 file = "mods/nowheel.pw.toml"
-hash = "31a9656c599e9f01092f6ae8338a5400106dc994aff879a656b295dcc3d8d02f"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "18c11b11c1200864031dbcd81763dce1aaaa0e2c2cafee53d5d6a3dbb6717674"
 metafile = true
 
 [[files]]
 file = "mods/pinglist.pw.toml"
-hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
 metafile = true
 
 [[files]]
 file = "mods/potioncounter.pw.toml"
-hash = "97de14c973ba1f940284aac0b2708a6e2037012d1af6dd09139b5be4f84f171c"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9ecb7fc18ecb0a55843677d4ac0cc6886faeb3ded15a16368828e7aacdb6b166"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "33e14af52da80c66dd89bd00fd0fba11a8096c75cca27f343ef6eced7f36911f"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a55efe201deb7eb0028776d3e219936f48084f9050703eff76da03926d1a850d"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "76262ae83e45259425577a35d7ce8c8d65fa3afe67ab16deaac6cbc67efe494e"
 metafile = true
 
 [[files]]
 file = "mods/totemcounter.pw.toml"
-hash = "b1bea1dc4d0f162ca79135279577434437bfa8868c6c1380e18d9988ff1e6e5f"
 metafile = true
 
 [[files]]
 file = "mods/ugly-scoreboard-fix.pw.toml"
-hash = "b9223a5c5af151fee2e0601fb03f710aa9baf1093d76d4269f0c5a7657917350"
 metafile = true
 
 [[files]]
 file = "mods/ukulib.pw.toml"
-hash = "a70f9bfbdf29815b4127af3b65361ac83e3d005adf2615eac481a343ada0ca83"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "930afd91b92eb34ec0706647028327674fa7ada4a4395e8b7dca1e4e1c4d839c"
 metafile = true
 
 [[files]]
 file = "mods/why-am-i-on-fire.pw.toml"
-hash = "4e05d69954a46ff7c6d7efd3700ddabc745fa5f52d93f0638857c98f1a2f1244"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
-hash = "480814c75bfb36f7d5d8108b67161f3bdc9181fdf60a26550b44032dabf900ea"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "acf2076ba440f421f3447041d97169c09fd9abd99ec59250a5bfe75ea72d02f0"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
 file = "removed.txt"
-hash = "4b8ed10ccf1045129be077b6bfed03fd200931685eb8510f5f316f109f9e6da1"
 
 [[files]]
 file = "resourcepacks/TheArtOfSaturation.zip"
-hash = "b984afeb1914850de9e93fb4bee586c42db41b55d650bc0dc428a90efc1f5d72"
 
 [[files]]
 file = "resourcepacks/VanillaPlusV2-1.19.zip"
-hash = "36ffa0851f7706ab9f28841c755cce6b7e63298d58fbc3986a52d5e6b6e7e8e4"
 
 [[files]]
 file = "resourcepacks/uku3lig-Totem-pv9.zip"
-hash = "67296b9011fc74180513ac0c47b172e486fa5e0650532cad7912f30a02d7d0fe"
