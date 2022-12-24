@@ -78,10 +78,6 @@ file = "mods/boosted-brightness.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/brb.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
@@ -95,10 +91,6 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
 metafile = true
 
 [[files]]
@@ -123,10 +115,6 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
 metafile = true
 
 [[files]]
@@ -226,10 +214,6 @@ file = "mods/ok-zoomer.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/pinglist.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/potioncounter.pw.toml"
 metafile = true
 
@@ -275,10 +259,6 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/why-am-i-on-fire.pw.toml"
 metafile = true
 
 [[files]]
