@@ -102,13 +102,6 @@ file = "mods/custom-hud.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom_hud-3.0.1+1.19.3-dirty.jar"
-
-[[files]]
-file = "mods/customhud.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/dcch.pw.toml"
 metafile = true
 

@@ -1,8 +1,0 @@
-name = "CustomHud"
-filename = "custom_hud-3.0.1+1.19.3-dirty.jar"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "6jis0UTI"
-version = "War7lAYl"
