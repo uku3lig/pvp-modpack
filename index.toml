@@ -97,11 +97,6 @@ hash = "eb741f7a68a315de7d699d6e6267004a479da3b32b260eb64b97ad039a57b569"
 metafile = true
 
 [[files]]
-file = "mods/boosted-brightness.pw.toml"
-hash = "5d7d1c6d7d68f972478ccfd02820f18f3db5e761ecf5965d9e1e151a8a75938a"
-metafile = true
-
-[[files]]
 file = "mods/brb.pw.toml"
 hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
 metafile = true
@@ -114,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "102baae65f09499fe9881590b64e8f12cbbac22c4b069c437fd200478cd0da64"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
@@ -184,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "0783d9be562d9551bc805390116cd789652740943404fd2aee802e910f12632e"
 metafile = true
 
 [[files]]
