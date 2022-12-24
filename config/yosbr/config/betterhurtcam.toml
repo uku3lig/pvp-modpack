@@ -1,2 +1,3 @@
-strength = 3
-oldValue = 10
+enabled = true
+multiplier = 0.3
+heartBlink = true

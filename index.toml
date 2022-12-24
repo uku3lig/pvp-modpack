@@ -94,10 +94,6 @@ file = "mods/completeconfig.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/custom-hud.pw.toml"
 metafile = true
 
@@ -155,10 +151,6 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/item-model-fix.pw.toml"
 metafile = true
 
 [[files]]

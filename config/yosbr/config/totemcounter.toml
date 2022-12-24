@@ -1,0 +1,13 @@
+[counterConfig]
+enabled = true
+separator = true
+colors = true
+[displayConfig]
+enabled = true
+x = -1
+y = -1
+useDefaultTotem = false
+colors = true
+coloredXpBar = true
+alwaysShowBar = false
+showPopCounter = false

@@ -1,5 +1,6 @@
-enabled = true
+bled = true
 showUpgrades = false
-position = "BOTTOM_LEFT"
+x = -1
+y = -1
 morePotions = false
 disabledPotions = []
