@@ -34,6 +34,9 @@ file = "config/yosbr/config/inspecio.json"
 file = "config/yosbr/config/inventoryhud.json"
 
 [[files]]
+file = "config/yosbr/config/nowheel.toml"
+
+[[files]]
 file = "config/yosbr/config/potioncounter.toml"
 
 [[files]]
@@ -44,6 +47,9 @@ file = "config/yosbr/config/sodium-extra-options.json"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
+
+[[files]]
+file = "config/yosbr/config/totemcounter.toml"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
