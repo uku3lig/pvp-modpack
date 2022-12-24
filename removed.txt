@@ -1,0 +1,12 @@
+Loading modpack...
+Reading mod files...
+Checking for updates...
+Failed to check updates for Better Recipe Book: failed to get latest version: no valid versions found
+Failed to check updates for Continuity: failed to get latest version: no valid versions found
+Failed to check updates for CustomHud: failed to get latest version: no valid versions found
+Failed to check updates for Enhanced Block Entities: failed to get latest version: no valid versions found
+Failed to check updates for Item Model Fix: failed to get latest version: no valid versions found
+Failed to check updates for PingList: failed to get latest version: no valid versions found
+Failed to check updates for Why Am I on Fire?: failed to get latest version: no valid versions found
+Failed to check updates for Your Options Shall Be Respected (YOSBR): failed to get latest version: no valid versions found
+All mods are up to date!

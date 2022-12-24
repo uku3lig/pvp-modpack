@@ -97,6 +97,11 @@ hash = "eb741f7a68a315de7d699d6e6267004a479da3b32b260eb64b97ad039a57b569"
 metafile = true
 
 [[files]]
+file = "mods/boosted-brightness.pw.toml"
+hash = "e1e13303302564f0f7c0eaf3acdebb2125a0c4f15725721a4db1dcc59cc6fcea"
+metafile = true
+
+[[files]]
 file = "mods/brb.pw.toml"
 hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
 metafile = true
@@ -184,11 +189,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
-metafile = true
-
-[[files]]
-file = "mods/gamma-utils.pw.toml"
-hash = "0783d9be562d9551bc805390116cd789652740943404fd2aee802e910f12632e"
 metafile = true
 
 [[files]]
@@ -370,6 +370,10 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
+
+[[files]]
+file = "removed.txt"
+hash = "4b8ed10ccf1045129be077b6bfed03fd200931685eb8510f5f316f109f9e6da1"
 
 [[files]]
 file = "resourcepacks/TheArtOfSaturation.zip"

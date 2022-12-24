@@ -1,0 +1,7 @@
+name = "boosted-brightness"
+filename = "boosted-brightness-2.1.3.jar"
+
+[download]
+url = "https://github.com/mvilk/BoostedBrightness/releases/download/v2.1.3/boosted-brightness-2.1.3.jar"
+hash-format = "sha1"
+hash = "d3998d86b0a23fd2c861380406b3b083e0e0c79c"
