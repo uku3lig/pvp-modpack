@@ -1,13 +1,13 @@
 name = "ToolTipFix"
-filename = "tooltipfix-1.1.0-1.19.jar"
+filename = "tooltipfix-1.1.1-1.19.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2RKFTmiB/versions/ZLOPAy6w/tooltipfix-1.1.0-1.19.jar"
+url = "https://cdn.modrinth.com/data/2RKFTmiB/versions/bc5v3KkT/tooltipfix-1.1.1-1.19.3.jar"
 hash-format = "sha1"
-hash = "ef9d588cea3282547f642b9273cf8df61cbca735"
+hash = "2b2d1e86462a78684ea9c96c206ce06ee71a2d1c"
 
 [update]
 [update.modrinth]
 mod-id = "2RKFTmiB"
-version = "ZLOPAy6w"
+version = "bc5v3KkT"
