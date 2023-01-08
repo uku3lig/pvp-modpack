@@ -96,6 +96,10 @@ file = "mods/capes.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chathighlighter.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
