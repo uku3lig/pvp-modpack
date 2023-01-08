@@ -76,6 +76,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/betterhurtcam.pw.toml"
 metafile = true
 
