@@ -140,6 +140,10 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fastanim.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 metafile = true
 
@@ -149,6 +153,10 @@ metafile = true
 
 [[files]]
 file = "mods/hatlist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
 metafile = true
 
 [[files]]
@@ -269,6 +277,10 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/whoami.pw.toml"
 metafile = true
 
 [[files]]
