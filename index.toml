@@ -108,6 +108,10 @@ file = "mods/completeconfig.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/custom-hud.pw.toml"
 metafile = true
 
