@@ -4,6 +4,9 @@ hash-format = "sha256"
 file = "LICENSE"
 
 [[files]]
+file = "config/craftpresence.json"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 
 [[files]]
@@ -302,9 +305,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 metafile = true
-
-[[files]]
-file = "removed.txt"
 
 [[files]]
 file = "resourcepacks/TheArtOfSaturation.zip"
