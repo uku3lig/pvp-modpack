@@ -1,0 +1,13 @@
+name = "Quilt Loading Screen"
+filename = "quilt_loading_screen-5.0.0+1.19.3-rc1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VPU6VYVP/versions/1ni9FR83/quilt_loading_screen-5.0.0%2B1.19.3-rc1.jar"
+hash-format = "sha1"
+hash = "a3133c766ea2a92139c3058b623c7feabf8f4e46"
+
+[update]
+[update.modrinth]
+mod-id = "VPU6VYVP"
+version = "1ni9FR83"
