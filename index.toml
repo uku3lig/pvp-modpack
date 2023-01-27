@@ -295,6 +295,10 @@ file = "mods/whoami.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/whyamionfire.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
 metafile = true
 
@@ -308,9 +312,6 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/TheArtOfSaturation.zip"
-
-[[files]]
-file = "resourcepacks/VanillaPlusV2-1.19.zip"
 
 [[files]]
 file = "resourcepacks/uku3lig-Totem-pv9.zip"
