@@ -37,6 +37,9 @@ file = "config/yosbr/config/inspecio.json"
 file = "config/yosbr/config/inventoryhud.json"
 
 [[files]]
+file = "config/yosbr/config/multiconnect/config.json"
+
+[[files]]
 file = "config/yosbr/config/nowheel.toml"
 
 [[files]]
