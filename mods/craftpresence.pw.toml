@@ -1,13 +1,13 @@
 name = "CraftPresence"
-filename = "CraftPresence-2.0.0-beta.1+1.19.3.jar"
+filename = "CraftPresence-2.0.0-beta.1+1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/FtP7EUts/CraftPresence-2.0.0-beta.1%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/sJNsvXZx/CraftPresence-2.0.0-beta.1%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "2cbadd0fceab976c607c469825378a1a761056b8"
+hash = "d8687cf8f7012575e3db7b9d295a93ef652c276a"
 
 [update]
 [update.modrinth]
 mod-id = "DFqQfIBR"
-version = "FtP7EUts"
+version = "sJNsvXZx"

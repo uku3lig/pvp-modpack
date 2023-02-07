@@ -110,7 +110,7 @@ file = "mods/craftpresence.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/custom-hud.pw.toml"
+file = "mods/customhud.pw.toml"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ file = "mods/whoami.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/whyamionfire.pw.toml"
+file = "mods/why-am-i-on-fire.pw.toml"
 metafile = true
 
 [[files]]

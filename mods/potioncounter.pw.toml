@@ -1,13 +1,13 @@
 name = "PotionCounter"
-filename = "potioncounter-1.3.0+mc1.19.3.jar"
+filename = "potioncounter-1.3.0+mc1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JzdjByS4/versions/sQMMp3nS/potioncounter-1.3.0%2Bmc1.19.3.jar"
+url = "https://cdn.modrinth.com/data/JzdjByS4/versions/2Ivk5kOl/potioncounter-1.3.0%2Bmc1.19.2.jar"
 hash-format = "sha1"
-hash = "3480025baa903d53d62971d6ccda0cced9f201c2"
+hash = "f532a1bcebe61c3082c563a9941d384ec0f6bf39"
 
 [update]
 [update.modrinth]
 mod-id = "JzdjByS4"
-version = "sQMMp3nS"
+version = "2Ivk5kOl"
