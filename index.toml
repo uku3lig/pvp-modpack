@@ -235,6 +235,10 @@ file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 metafile = true
 
