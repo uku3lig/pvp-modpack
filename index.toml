@@ -67,10 +67,6 @@ file = "config/yosbr/config/xaeropatreon.txt"
 file = "config/yosbr/options.txt"
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -99,10 +95,6 @@ file = "mods/capes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/chathighlighter.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
@@ -116,10 +108,6 @@ metafile = true
 
 [[files]]
 file = "mods/custom-hud.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/dcch.pw.toml"
 metafile = true
 
 [[files]]
@@ -159,19 +147,11 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/hatlist.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/inspecio.pw.toml"
 metafile = true
 
 [[files]]
@@ -212,10 +192,6 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/morechathistory.pw.toml"
 metafile = true
 
 [[files]]
