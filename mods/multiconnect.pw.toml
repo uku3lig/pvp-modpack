@@ -1,13 +1,13 @@
 name = "multiconnect"
-filename = "multiconnect-1.6-beta.25.jar"
+filename = "multiconnect-1.6-beta.26.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sfEDKnlo/versions/N45MuPro/multiconnect-1.6-beta.25.jar"
+url = "https://cdn.modrinth.com/data/sfEDKnlo/versions/wZ5T1YdU/multiconnect-1.6-beta.26.jar"
 hash-format = "sha1"
-hash = "73bcf92c9ab56605d1a025277dfaff17359a8f75"
+hash = "97a8e87c70a25f3aee7538faa7b8df8512ff67bf"
 
 [update]
 [update.modrinth]
 mod-id = "sfEDKnlo"
-version = "N45MuPro"
+version = "wZ5T1YdU"
