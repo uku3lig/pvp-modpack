@@ -1,13 +1,13 @@
 name = "CompleteConfig"
-filename = "completeconfig-2.3.0.jar"
+filename = "completeconfig-2.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GtqG8z1h/versions/Gp370KF1/completeconfig-2.3.0.jar"
+url = "https://cdn.modrinth.com/data/GtqG8z1h/versions/xTRB8xOO/completeconfig-2.3.1.jar"
 hash-format = "sha1"
-hash = "c5c6202d1d72197d2708d6723d04a7466c549031"
+hash = "36a5b089b40401dca9a9d7f668925c0c8f04ed3c"
 
 [update]
 [update.modrinth]
 mod-id = "GtqG8z1h"
-version = "Gp370KF1"
+version = "xTRB8xOO"

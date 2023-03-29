@@ -78,10 +78,6 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/betterhurtcam.pw.toml"
 metafile = true
 
@@ -115,10 +111,6 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/durabilityviewer.pw.toml"
 metafile = true
 
 [[files]]
@@ -199,10 +191,6 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/multiconnect.pw.toml"
 metafile = true
 
 [[files]]

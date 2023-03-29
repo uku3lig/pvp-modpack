@@ -1,13 +1,13 @@
 name = "Ugly Scoreboard Fix"
-filename = "uglyscoreboardfix-2.8.0.jar"
+filename = "uglyscoreboardfix-2.9.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8bcFGNZj/versions/nLfmnKXf/uglyscoreboardfix-2.8.0.jar"
+url = "https://cdn.modrinth.com/data/8bcFGNZj/versions/Yrjy2MJ1/uglyscoreboardfix-2.9.0.jar"
 hash-format = "sha1"
-hash = "cbc48827cedee3d53d3fb8631e371d3fd31db744"
+hash = "a9ee6557c80879187b3330f600b88dbdd7f76150"
 
 [update]
 [update.modrinth]
 mod-id = "8bcFGNZj"
-version = "nLfmnKXf"
+version = "Yrjy2MJ1"
