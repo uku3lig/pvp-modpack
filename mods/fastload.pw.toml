@@ -7,7 +7,8 @@ url = "https://cdn.modrinth.com/data/kCpssoSb/versions/tykaPrWr/Fastload%2B1.18.
 hash-format = "sha1"
 hash = "fac766a89718b3745ac1a88b7465dcb04c69ea8a"
 
-[update]
-[update.modrinth]
-mod-id = "kCpssoSb"
-version = "tykaPrWr"
+# TEMPORARILY REMOVED
+#[update]
+#[update.modrinth]
+#mod-id = "kCpssoSb"
+#version = "tykaPrWr"
