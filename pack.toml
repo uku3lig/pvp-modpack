@@ -1,6 +1,6 @@
 name = "ukus-pvp-modpack"
 author = "uku"
-version = "1.0.5+mc1.19.4"
+version = "1.0.6+mc1.19.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
