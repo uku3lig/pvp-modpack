@@ -130,10 +130,6 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fastanim.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/fastload.pw.toml"
 metafile = true
 
@@ -159,10 +155,6 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/lazydfu.pw.toml"
 metafile = true
 
 [[files]]
