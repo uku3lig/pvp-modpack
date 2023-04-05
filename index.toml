@@ -98,10 +98,6 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/completeconfig.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/craftpresence.pw.toml"
 metafile = true
 
@@ -206,10 +202,6 @@ file = "mods/qsl.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/quilt-loading-screen.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
@@ -234,15 +226,7 @@ file = "mods/starlight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/tooltipfix.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/totemcounter.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ugly-scoreboard-fix.pw.toml"
 metafile = true
 
 [[files]]
