@@ -1,0 +1,13 @@
+name = "BerdinskiyBear's Armor HUD"
+filename = "bears-armor-hud-0.3.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bc15508653f39f3bf565382d78bb534b03edd3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4469012
+project-id = 420155

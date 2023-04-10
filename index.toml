@@ -78,6 +78,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/berdinskiybears-armor-hud.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/betterhurtcam.pw.toml"
 metafile = true
 
@@ -187,6 +191,10 @@ metafile = true
 
 [[files]]
 file = "mods/nowheel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/numeral-ping.pw.toml"
 metafile = true
 
 [[files]]
