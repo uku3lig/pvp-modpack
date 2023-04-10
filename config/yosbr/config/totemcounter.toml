@@ -1,13 +1,14 @@
-[counterConfig]
-enabled = true
-separator = true
-colors = true
-[displayConfig]
-enabled = true
+displayEnabled = true
 x = -1
 y = -1
 useDefaultTotem = false
-colors = true
-coloredXpBar = true
+displayColors = true
+coloredXpBar = false
 alwaysShowBar = false
 showPopCounter = false
+counterEnabled = true
+separator = true
+counterColors = true
+showInTab = false
+disableArmorStands = false
+maxDistance = 20.0
