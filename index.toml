@@ -13,6 +13,9 @@ file = "config/isxander-main-menu-credits.json"
 file = "config/yosbr/config/appleskin.json5"
 
 [[files]]
+file = "config/yosbr/config/armor_hud.json"
+
+[[files]]
 file = "config/yosbr/config/betterhurtcam.toml"
 
 [[files]]
