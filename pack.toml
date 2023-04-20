@@ -9,7 +9,7 @@ hash-format = "sha256"
 
 [versions]
 minecraft = "1.19.4"
-quilt = "0.18.9"
+quilt = "0.18.10"
 
 [options]
 no-internal-hashes = true
