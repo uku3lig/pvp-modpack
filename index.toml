@@ -89,6 +89,10 @@ file = "mods/betterhurtcam.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bettershields.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/boosted-brightness.pw.toml"
 metafile = true
 

@@ -1,0 +1,13 @@
+name = "BetterShields"
+filename = "bettershields-1.0.0+mc1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UpdayxEt/versions/gQpEvOre/bettershields-1.0.0%2Bmc1.19.4.jar"
+hash-format = "sha1"
+hash = "e2ae0759d4ba06fc476b8cc8a66dde81f672ada1"
+
+[update]
+[update.modrinth]
+mod-id = "UpdayxEt"
+version = "gQpEvOre"
