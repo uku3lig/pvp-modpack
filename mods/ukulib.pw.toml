@@ -1,13 +1,13 @@
 name = "ukulib"
-filename = "ukulib-0.6.1+1.19.4.jar"
+filename = "ukulib-0.7.0+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y8uFrUil/versions/1BLEffJi/ukulib-0.6.1%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/Y8uFrUil/versions/5MXKgYAq/ukulib-0.7.0%2B1.20.jar"
 hash-format = "sha1"
-hash = "78efe5481cb142fb11d608af1d870760d2a9c2a2"
+hash = "469d02dae208812ba4df1acbeb95658c856dce61"
 
 [update]
 [update.modrinth]
 mod-id = "Y8uFrUil"
-version = "1BLEffJi"
+version = "5MXKgYAq"

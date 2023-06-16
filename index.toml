@@ -10,6 +10,9 @@ file = "config/craftpresence.json"
 file = "config/isxander-main-menu-credits.json"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+
+[[files]]
 file = "config/yosbr/config/appleskin.json5"
 
 [[files]]
@@ -73,6 +76,9 @@ file = "config/yosbr/config/xaeropatreon.txt"
 file = "config/yosbr/options.txt"
 
 [[files]]
+file = "missing.txt"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -81,19 +87,11 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/berdinskiybears-armor-hud.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/betterhurtcam.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/bettershields.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/boosted-brightness.pw.toml"
 metafile = true
 
 [[files]]
@@ -129,10 +127,6 @@ file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
@@ -142,6 +136,10 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
 metafile = true
 
 [[files]]
@@ -170,10 +168,6 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
 metafile = true
 
 [[files]]
@@ -225,10 +219,6 @@ file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/smoothboot-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 metafile = true
 
@@ -246,6 +236,10 @@ metafile = true
 
 [[files]]
 file = "mods/ukulib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
 metafile = true
 
 [[files]]
