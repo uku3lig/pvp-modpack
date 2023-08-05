@@ -27,7 +27,7 @@
                     "color": "dark_aqua",
                     "clickEvent": {
                         "action": "open_url",
-                        "value": "https://modrinth.com/user/uku3lig"
+                        "value": "https://modrinth.com/user/uku"
                     }
                 }
             ]
