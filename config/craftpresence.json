@@ -1,13 +1,14 @@
 {
   "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
-  "_schemaVersion": 1,
-  "_lastMCVersionId": 761,
+  "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
+  "_schemaVersion": 5,
+  "_lastMCVersionId": 763,
   "generalSettings": {
+    "detectATLauncherInstance": false,
     "detectCurseManifest": false,
     "detectMultiMCManifest": false,
     "detectMCUpdaterInstance": false,
     "detectTechnicPack": false,
-    "showTime": true,
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
@@ -20,7 +21,7 @@
     "autoRegister": false
   },
   "biomeSettings": {
-    "fallbackBiomeIcon": "grass" ,
+    "fallbackBiomeIcon": "grass",
     "biomeData": {
       "default": {
         "textOverride": "Playing in {biome.name}"
@@ -60,7 +61,6 @@
     }
   },
   "advancedSettings": {
-    "enableCommands": true,
     "enablePerGui": false,
     "enablePerItem": false,
     "enablePerEntity": false,
@@ -101,12 +101,61 @@
     "playerSkinEndpoint": "https://mc-heads.net/avatar/{player.uuid.short != null ? player.uuid.short : player.name}"
   },
   "accessibilitySettings": {
-    "tooltipBackgroundColor": "0xF0100010",
-    "tooltipBorderColor": "0x505000FF",
-    "guiBackgroundColor": "minecraft:textures/gui/options_background.png",
-    "buttonBackgroundColor": "minecraft:textures/gui/widgets.png",
+    "tooltipBackground": {
+      "start": {
+        "red": 16,
+        "green": 0,
+        "blue": 16,
+        "alpha": 240
+      }
+    },
+    "tooltipBorder": {
+      "start": {
+        "red": 80,
+        "green": 0,
+        "blue": 255,
+        "alpha": 80
+      },
+      "end": {
+        "red": 40,
+        "green": 0,
+        "blue": 127,
+        "alpha": 80
+      }
+    },
+    "guiBackground": {
+      "start": {
+        "red": 64,
+        "green": 64,
+        "blue": 64,
+        "alpha": 255
+      },
+      "texLocation": "minecraft:textures/gui/options_background.png"
+    },
+    "worldGuiBackground": {
+      "start": {
+        "red": 16,
+        "green": 16,
+        "blue": 16,
+        "alpha": 192
+      },
+      "end": {
+        "red": 16,
+        "green": 16,
+        "blue": 16,
+        "alpha": 208
+      }
+    },
+    "buttonBackground": {
+      "start": {
+        "red": 255,
+        "green": 255,
+        "blue": 255,
+        "alpha": 255
+      },
+      "texLocation": "minecraft:textures/gui/widgets.png"
+    },
     "languageId": "en_us",
-    "showBackgroundAsDark": true,
     "stripTranslationColors": false,
     "showLoggingInChat": false,
     "stripExtraGuiElements": false,
@@ -117,22 +166,23 @@
       "enabled": true,
       "useAsMain": false,
       "details": "{menu.message != null ? menu.message : ''}",
-      "gameState": "{server.message != null ? server.message : ''}",
+      "gameState": "{server.message != null ? server.message : custom.ukupvp_version}",
       "largeImageKey": "{menu.icon != null ? menu.icon : (server.icon != null ? server.icon : '')}",
-      "largeImageText": "{menu.message != null ? menu.message : ''}",
+      "largeImageText": "{server.message != null ? custom.ukupvp_version : 'read if cute'}",
       "smallImageKey": "{player.name != null ? player.name : ''}",
       "smallImageText": "{player.name != null ? player.name : 'unknown player'}",
+      "startTimestamp": "{data.general.time}",
+      "endTimestamp": "",
       "buttons": {
-        "default": {
-          "label": "Example Text",
-          "url": "https://google.com"
+        "button_1": {
+          "label": "Download Modpack",
+          "url": "https://modrinth.com/modpack/ukupvp"
         }
       }
     },
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
-      "uku3lig": "https://mc-heads.net/avatar/6553509f66d34041875f164236e42e84",
-      "eu.mcpvp.club": "https://api.mcsrvstat.us/icon/eu.mcpvp.club"
+      "uku3lig": "https://mc-heads.net/avatar/6553509f66d34041875f164236e42e84"
     },
     "dynamicVariables": {
       "default": "Example Text",
@@ -144,7 +194,8 @@
       "player_info_out": "As {player.name}",
       "player_info_health": "Health: {player.health.current}/{player.health.max}",
       "world_info": "On {world.name}",
-      "pack": "{pack.name}"
+      "pack": "{pack.name}",
+      "ukupvp_version": "v1.3.0-beta.1 on MC {general.version}"
     }
   }
 }
