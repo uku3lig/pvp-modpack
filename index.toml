@@ -111,10 +111,6 @@ file = "mods/craftpresence.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/customhud.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 metafile = true
 
@@ -124,6 +120,10 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
 metafile = true
 
 [[files]]
