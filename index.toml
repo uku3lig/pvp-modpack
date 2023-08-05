@@ -76,9 +76,6 @@ file = "config/yosbr/config/xaeropatreon.txt"
 file = "config/yosbr/options.txt"
 
 [[files]]
-file = "missing.txt"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
