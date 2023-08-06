@@ -22,6 +22,9 @@ file = "config/yosbr/config/armor_hud.json"
 file = "config/yosbr/config/betterhurtcam.toml"
 
 [[files]]
+file = "config/yosbr/config/c2me.toml"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
 
 [[files]]
@@ -34,6 +37,24 @@ file = "config/yosbr/config/custom-hud/profile1.txt"
 file = "config/yosbr/config/durabilityviewer.json"
 
 [[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+
+[[files]]
+file = "config/yosbr/config/exordium.json"
+
+[[files]]
+file = "config/yosbr/config/fastload.properties"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+
+[[files]]
 file = "config/yosbr/config/healthindicator.toml"
 
 [[files]]
@@ -41,6 +62,12 @@ file = "config/yosbr/config/inspecio.json"
 
 [[files]]
 file = "config/yosbr/config/inventoryhud.json"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
 
 [[files]]
 file = "config/yosbr/config/multiconnect/config.json"
@@ -61,7 +88,13 @@ file = "config/yosbr/config/sodium-extra-options.json"
 file = "config/yosbr/config/sodium-options.json"
 
 [[files]]
+file = "config/yosbr/config/threadtweak.json"
+
+[[files]]
 file = "config/yosbr/config/totemcounter.toml"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
@@ -116,6 +149,10 @@ file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 metafile = true
 
@@ -164,6 +201,10 @@ file = "mods/modelfix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
@@ -205,6 +246,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
 metafile = true
 
 [[files]]
