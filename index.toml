@@ -285,7 +285,7 @@ file = "mods/whyamionfire.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+file = "mods/xaeros-minimap-fair.pw.toml"
 metafile = true
 
 [[files]]
