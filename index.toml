@@ -129,6 +129,10 @@ file = "mods/bettershields.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 metafile = true
 
@@ -161,7 +165,15 @@ file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
 metafile = true
 
 [[files]]
