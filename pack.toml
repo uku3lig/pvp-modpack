@@ -8,8 +8,8 @@ file = "index.toml"
 hash-format = "sha256"
 
 [versions]
+fabric = "0.14.23"
 minecraft = "1.20.1"
-quilt = "0.21.0"
 
 [options]
 acceptable-game-versions = ["1.20", "1.20.1"]
