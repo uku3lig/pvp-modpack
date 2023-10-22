@@ -10,9 +10,6 @@ file = "config/craftpresence.json"
 file = "config/isxander-main-menu-credits.json"
 
 [[files]]
-file = "config/quilt-loader-overrides.json"
-
-[[files]]
 file = "config/yosbr/config/appleskin.json5"
 
 [[files]]
@@ -160,10 +157,6 @@ file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 metafile = true
 
@@ -177,10 +170,6 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
 metafile = true
 
 [[files]]

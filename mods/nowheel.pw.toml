@@ -1,13 +1,13 @@
 name = "NoWheel"
-filename = "nowheel-1.2.1+mc1.19.2.jar"
+filename = "nowheel-1.2.2+mc1.20.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GNhuDBbS/versions/Gl2i8kjs/nowheel-1.2.1%2Bmc1.19.2.jar"
+url = "https://cdn.modrinth.com/data/GNhuDBbS/versions/sZ0SCW6g/nowheel-1.2.2%2Bmc1.20.2.jar"
 hash-format = "sha1"
-hash = "99b286a856db5964de47fae56283d321df522769"
+hash = "84ab32fc9015f424146999e9f59907ac2ee36098"
 
 [update]
 [update.modrinth]
 mod-id = "GNhuDBbS"
-version = "Gl2i8kjs"
+version = "sZ0SCW6g"
