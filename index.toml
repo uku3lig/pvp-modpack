@@ -106,6 +106,9 @@ file = "config/yosbr/config/xaerominimap_entities.json"
 file = "config/yosbr/config/xaeropatreon.txt"
 
 [[files]]
+file = "config/yosbr/config/zoomify.json"
+
+[[files]]
 file = "config/yosbr/options.txt"
 
 [[files]]
@@ -166,6 +169,10 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -237,15 +244,7 @@ file = "mods/nowheel.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/potioncounter.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
 metafile = true
 
 [[files]]
@@ -306,6 +305,10 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]
