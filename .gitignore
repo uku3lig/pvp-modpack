@@ -6,3 +6,6 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# nix stuff
+.direnv/

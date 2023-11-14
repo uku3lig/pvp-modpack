@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 PACK_FILE="pack.toml"
 TO_EDIT=(
@@ -31,4 +31,3 @@ for file in "${TO_EDIT[@]}"
 do
     sed -i "s/$OLD_VERSION/$NEW_VERSION/g" "$file"
 done
-
