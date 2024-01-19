@@ -1,13 +1,13 @@
 name = "BetterShields"
-filename = "bettershields-1.0.1+mc1.20.2.jar"
+filename = "bettershields-1.1.0+mc1.20.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UpdayxEt/versions/O3WpPsPp/bettershields-1.0.1%2Bmc1.20.2.jar"
+url = "https://cdn.modrinth.com/data/UpdayxEt/versions/Rl6wnUfW/bettershields-1.1.0%2Bmc1.20.3.jar"
 hash-format = "sha1"
-hash = "c2bcb215709fbda9c707a7f078c59f379bf8a522"
+hash = "b15c86caf8db3cd0396d4e2212efaf335e8391be"
 
 [update]
 [update.modrinth]
 mod-id = "UpdayxEt"
-version = "O3WpPsPp"
+version = "Rl6wnUfW"

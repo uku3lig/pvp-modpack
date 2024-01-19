@@ -1,13 +1,13 @@
 name = "BetterHurtCam"
-filename = "betterhurtcam-1.6.0+mc1.20.2.jar"
+filename = "betterhurtcam-1.7.0+mc1.20.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/o4y0N2hu/versions/fhA9QMWt/betterhurtcam-1.6.0%2Bmc1.20.2.jar"
+url = "https://cdn.modrinth.com/data/o4y0N2hu/versions/hvOcfdjE/betterhurtcam-1.7.0%2Bmc1.20.3.jar"
 hash-format = "sha1"
-hash = "36fbf54e57498e2bc47f42ef16eadc4195a7ab5b"
+hash = "45542b693ede2400bbd60566e69cd551dcd53dd0"
 
 [update]
 [update.modrinth]
 mod-id = "o4y0N2hu"
-version = "fhA9QMWt"
+version = "hvOcfdjE"

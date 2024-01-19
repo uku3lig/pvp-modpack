@@ -8,8 +8,8 @@ file = "index.toml"
 hash-format = "sha256"
 
 [versions]
-fabric = "0.14.24"
-minecraft = "1.20.2"
+fabric = "0.15.5"
+minecraft = "1.20.4"
 
 [options]
 no-internal-hashes = true

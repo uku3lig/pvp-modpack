@@ -133,10 +133,6 @@ file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
@@ -158,10 +154,6 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
 metafile = true
 
 [[files]]
