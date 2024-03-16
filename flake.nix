@@ -13,16 +13,14 @@
       systems = ["x86_64-linux" "aarch64-linux" "x86_64-darwin" "aarch64-darwin"];
 
       perSystem = {pkgs, ...}: {
-        devShells.default = pkgs.mkShell {
-          buildInputs = with pkgs; [packwiz];
+        devShells.default = with pkgs;
+          mkShellNoCC {
+            buildInputs = [packwiz yq];
 
-          packages = with pkgs; [
-            nil
-            yq
-          ];
+            packages = [nil];
+          };
 
-          formatter = pkgs.alejandra;
-        };
+        formatter = pkgs.alejandra;
       };
     };
 }
