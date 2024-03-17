@@ -129,10 +129,6 @@ file = "mods/bettershields.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
@@ -142,10 +138,6 @@ metafile = true
 
 [[files]]
 file = "mods/customhud.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
 metafile = true
 
 [[files]]
@@ -198,10 +190,6 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/mixin-conflict-helper.pw.toml"
 metafile = true
 
 [[files]]
@@ -266,10 +254,6 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
