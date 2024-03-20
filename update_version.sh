@@ -31,3 +31,6 @@ for file in "${TO_EDIT[@]}"
 do
     sed -i "s/$OLD_VERSION/$NEW_VERSION/g" "$file"
 done
+
+# commit
+git commit -am "chore: bump version to ${NEW_VERSION}"
