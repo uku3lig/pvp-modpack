@@ -137,6 +137,10 @@ file = "mods/craftpresence.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/customhud.pw.toml"
 metafile = true
 
