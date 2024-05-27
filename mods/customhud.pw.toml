@@ -1,13 +1,13 @@
 name = "CustomHud"
-filename = "custom_hud-3.3.0+1.20.4.jar"
+filename = "custom_hud-3.4.2+1.20.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6jis0UTI/versions/qgWGrBWP/custom_hud-3.3.0%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/6jis0UTI/versions/9fR21Wk6/custom_hud-3.4.2%2B1.20.5.jar"
 hash-format = "sha1"
-hash = "dfb3f65fa3a0530aa74cc371a09fec4357cd1626"
+hash = "ce3180aefc071801ed7c7ff0cd1e00eab30d905d"
 
 [update]
 [update.modrinth]
 mod-id = "6jis0UTI"
-version = "qgWGrBWP"
+version = "9fR21Wk6"

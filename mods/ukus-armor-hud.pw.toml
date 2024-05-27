@@ -1,13 +1,13 @@
 name = "uku's Armor HUD"
-filename = "ukus-armor-hud-0.4.2+mc1.20.3.jar"
+filename = "ukus-armor-hud-0.4.4+mc1.20.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wF189hn9/versions/F1irP06N/ukus-armor-hud-0.4.2%2Bmc1.20.3.jar"
+url = "https://cdn.modrinth.com/data/wF189hn9/versions/inle1PJL/ukus-armor-hud-0.4.4%2Bmc1.20.6.jar"
 hash-format = "sha1"
-hash = "60ab80fe5740d667ede0b117b3a934c7738fecf3"
+hash = "c3f0cbc2f655bce2c888025c2f5e145646288d28"
 
 [update]
 [update.modrinth]
 mod-id = "wF189hn9"
-version = "F1irP06N"
+version = "inle1PJL"

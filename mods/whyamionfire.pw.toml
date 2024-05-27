@@ -1,7 +1,0 @@
-name = "whyamionfire"
-filename = "whyamionfire-1.2.1.jar"
-
-[download]
-url = "https://github.com/uku3lig/Why-Am-I-on-Fire/releases/download/1.2.1/whyamionfire-1.2.1.jar"
-hash-format = "sha1"
-hash = "2b2dd72d99c22c00c60c229e3bb4591463a4ad79"

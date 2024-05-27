@@ -73,6 +73,9 @@ file = "config/yosbr/config/multiconnect/config.json"
 file = "config/yosbr/config/nowheel.toml"
 
 [[files]]
+file = "config/yosbr/config/numeralping.json"
+
+[[files]]
 file = "config/yosbr/config/potioncounter.toml"
 
 [[files]]
@@ -117,10 +120,6 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/betterhurtcam.pw.toml"
 metafile = true
 
@@ -150,10 +149,6 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
 metafile = true
 
 [[files]]
@@ -221,6 +216,10 @@ file = "mods/nowheel.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/numeral-ping.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 metafile = true
 
@@ -269,11 +268,11 @@ file = "mods/whoami.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/whyamionfire.pw.toml"
+file = "mods/why-am-i-on-fire.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-fair.pw.toml"
+file = "mods/xaeros-minimap.pw.toml"
 metafile = true
 
 [[files]]
