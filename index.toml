@@ -100,13 +100,10 @@ file = "config/yosbr/config/totemcounter.toml"
 file = "config/yosbr/config/vmp.properties"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap-common.txt"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap_entities.json"
-
-[[files]]
-file = "config/yosbr/config/xaeropatreon.txt"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
