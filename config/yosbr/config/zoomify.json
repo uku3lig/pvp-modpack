@@ -1,35 +1,26 @@
 {
-    "zoomify_gui_category_behaviour": {
-        "zoomify_gui_initialzoom_name": 4,
-        "zoomify_gui_zoomintime_name": 0.25,
-        "zoomify_gui_zoomouttime_name": 0.25,
-        "zoomify_gui_zoomintransition_name": 12,
-        "zoomify_gui_zoomouttransition_name": 12,
-        "zoomify_gui_affecthandfov_name": true,
-        "zoomify_gui_retainzoomsteps_name": false
-    },
-    "zoomify_gui_category_scrolling": {
-        "zoomify_gui_scrollzoom_name": true,
-        "zoomify_gui_scrollzoomamount_name": 3,
-        "zoomify_gui_scrollzoomsmoothness_name": 25,
-        "zoomify_gui_linearlikesteps_name": false
-    },
-    "zoomify_gui_category_controls": {
-        "zoomify_gui_zoomkeybehaviour_name": 0,
-        "zoomify_gui_keybindscrolling_name": false,
-        "zoomify_gui_relativesensitivity_name": 50,
-        "zoomify_gui_relativeviewbobbing_name": false,
-        "zoomify_gui_cinematiccam_name": 0
-    },
-    "zoomify_gui_category_spyglass": {
-        "zoomify_gui_spyglassbehaviour_name": 0,
-        "zoomify_gui_spyglassoverlayvisibility_name": 1,
-        "zoomify_gui_spyglasssoundbehaviour_name": 3
-    },
-    "zoomify_gui_category_secondary": {
-        "zoomify_gui_secondaryzoomamount_name": 4,
-        "zoomify_gui_secondaryzoomintime_name": 10.0,
-        "zoomify_gui_secondaryzoomouttime_name": 1.0,
-        "zoomify_gui_secondaryzoomhidehudonzoom_name": true
-    }
+  "initialZoom": 4,
+  "zoomInTime": 0.25,
+  "zoomOutTime": 0.25,
+  "zoomInTransition": "ease_out_exp",
+  "zoomOutTransition": "ease_out_exp",
+  "affectHandFov": true,
+  "retainZoomSteps": false,
+  "linearLikeSteps": false,
+  "scrollZoom": true,
+  "scrollZoomAmount": 3,
+  "scrollZoomSmoothness": 25,
+  "zoomKeyBehaviour": "hold",
+  "_keybindScrolling": false,
+  "relativeSensitivity": 50,
+  "relativeViewBobbing": false,
+  "cinematicCamera": 0,
+  "spyglassBehaviour": "combine",
+  "spyglassOverlayVisibility": "holding",
+  "spyglassSoundBehaviour": "with_overlay",
+  "secondaryZoomAmount": 4,
+  "secondaryZoomInTime": 10.0,
+  "secondaryZoomOutTime": 1.0,
+  "secondaryHideHUDOnZoom": true,
+  "_firstLaunch": true
 }
