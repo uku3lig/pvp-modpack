@@ -1,13 +1,13 @@
 name = "ViaFabricPlus"
-filename = "ViaFabricPlus-3.3.0.jar"
+filename = "ViaFabricPlus-3.4.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rIC2XJV4/versions/8y7ndLGS/ViaFabricPlus-3.3.0.jar"
+url = "https://cdn.modrinth.com/data/rIC2XJV4/versions/q66gv9Sg/ViaFabricPlus-3.4.2.jar"
 hash-format = "sha1"
-hash = "2ef891c3ba7213f39322a0467a68e311aec08442"
+hash = "30a0658af30392c3bfb2fd611f309c2b5b838ae9"
 
 [update]
 [update.modrinth]
 mod-id = "rIC2XJV4"
-version = "8y7ndLGS"
+version = "q66gv9Sg"

@@ -7,6 +7,9 @@ file = "LICENSE"
 file = "config/craftpresence.json"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 
 [[files]]
