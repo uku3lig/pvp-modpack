@@ -260,6 +260,10 @@ file = "mods/ukus-armor-hud.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/viafabricplus.pw.toml"
 metafile = true
 
