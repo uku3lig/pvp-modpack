@@ -248,6 +248,10 @@ file = "mods/threadtweak.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tiertagger.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/totemcounter.pw.toml"
 metafile = true
 
