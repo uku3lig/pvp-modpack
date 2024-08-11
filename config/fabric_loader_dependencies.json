@@ -1,7 +1,7 @@
 {
   "version": 1,
   "overrides": {
-    "threadtweak": {
+    "entityculling": {
       "-depends": {
         "minecraft": ""
       }
