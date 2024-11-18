@@ -4,3 +4,4 @@ missing.txt
 .direnv
 flake.*
 .envrc
+*.nix
