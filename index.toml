@@ -172,10 +172,6 @@ file = "mods/immediatelyfast.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 metafile = true
 
@@ -217,10 +213,6 @@ metafile = true
 
 [[files]]
 file = "mods/numeral-ping.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
 metafile = true
 
 [[files]]
@@ -300,3 +292,6 @@ file = "resourcepacks/TheArtOfSaturation.zip"
 
 [[files]]
 file = "resourcepacks/uku3lig-Totem-pv9.zip"
+
+[[files]]
+file = "shell.nix"

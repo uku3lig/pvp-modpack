@@ -1,13 +1,13 @@
 name = "Who am I?"
-filename = "who-am-i-1.2.0.jar"
+filename = "whoami-1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CcxcmoLQ/versions/tzXCp7yH/who-am-i-1.2.0.jar"
-hash-format = "sha1"
-hash = "3922ae685f9956eadfb776800bf58a8e67bda485"
+url = "https://cdn.modrinth.com/data/CcxcmoLQ/versions/qX809hta/whoami-1.0.jar"
+hash-format = "sha512"
+hash = "f86cb22d3c94f232b36f0800b4f02074ae6bef74bf31a976e7c965d2087e5ecdaa38801b2831c65537a762fb377f1086e7a583260305523995240de870fd4b3b"
 
 [update]
 [update.modrinth]
 mod-id = "CcxcmoLQ"
-version = "tzXCp7yH"
+version = "qX809hta"

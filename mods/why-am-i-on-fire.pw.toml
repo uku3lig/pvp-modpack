@@ -1,8 +1,8 @@
 name = "Why Am I on Fire?"
-filename = "whyamionfire-1.3.3-uku.jar"
+filename = "whyamionfire-1.3.4-uku.jar"
 side = "client"
 
 [download]
-url = "https://github.com/uku3lig/Why-Am-I-on-Fire/releases/download/1.3.3-uku/whyamionfire-1.3.3-uku.jar"
+url = "https://github.com/uku3lig/Why-Am-I-on-Fire/releases/download/1.3.4-uku/whyamionfire-1.3.4-uku.jar"
 hash-format = "sha1"
-hash = "f5392d771a640dddbe51098302d395d0fd1446ac"
+hash = "43faae7174a5c495108263f768983b829bb57bdc"
