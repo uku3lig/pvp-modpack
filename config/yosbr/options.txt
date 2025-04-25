@@ -12,7 +12,7 @@ renderClouds:false
 rawMouseInput:true
 skipMultiplayerWarning:true
 advancedItemTooltips:true
-resourcePacks:["vanilla","fabric", "file/TheArtOfSaturation.zip"]
+resourcePacks:["vanilla","fabric","file/ukupvp-resources","file/TheArtOfSaturation.zip"]
 operatorItemsTab:true
 onlyShowSecureChat:false
 key_key.saveToolbarActivator:key.keyboard.unknown
