@@ -1,0 +1,9 @@
+{
+  "schema_version": "2",
+  "default_packs": ["file/TheArtOfSaturation.zip", "file/ukupvp-resources.zip"],
+  "pack_overrides": {
+    "file/ukupvp-resources.zip": {
+      "required": true
+    }
+  }
+}

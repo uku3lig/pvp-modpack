@@ -13,6 +13,9 @@ file = "config/fabric_loader_dependencies.json"
 file = "config/isxander-main-menu-credits.json"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+
+[[files]]
 file = "config/yosbr/config/appleskin.json5"
 
 [[files]]
@@ -217,6 +220,10 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
 metafile = true
 
 [[files]]

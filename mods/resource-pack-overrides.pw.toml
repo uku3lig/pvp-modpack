@@ -1,0 +1,13 @@
+name = "Resource Pack Overrides"
+filename = "ResourcePackOverrides-v21.5.0-1.21.5-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YsFycamt/versions/gWcaClSA/ResourcePackOverrides-v21.5.0-1.21.5-Fabric.jar"
+hash-format = "sha512"
+hash = "37298c5964af653eab66005955102d17495b592426694e11767d3c2e464e1c2c6529f5abdac8cd55cb1f30b8576b65f03062075b17a3f79e233a999594e5b227"
+
+[update]
+[update.modrinth]
+mod-id = "YsFycamt"
+version = "gWcaClSA"
