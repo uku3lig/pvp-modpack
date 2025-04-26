@@ -1,4 +1,4 @@
-version:3465
+version:4325
 autoJump:false
 enableVsync:false
 directionalAudio:true
@@ -15,8 +15,12 @@ advancedItemTooltips:true
 resourcePacks:["vanilla","fabric","file/ukupvp-resources","file/TheArtOfSaturation.zip"]
 operatorItemsTab:true
 onlyShowSecureChat:false
+tutorialStep:none
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.custom_hud.enable:key.keyboard.unknown
+key_key.custom_hud.cycle_profiles:key.keyboard.unknown
+key_key.custom_hud.show_errors:key.keyboard.unknown
 key_key.inventoryhud.toggle:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.unknown
 key_key.durabilityviewer.showhide:key.keyboard.unknown
@@ -28,9 +32,14 @@ key_gui.xaero_minimap_settings:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-key_key.boosted-brightness.raise:key.keyboard.unknown
-key_key.boosted-brightness.lower:key.keyboard.unknown
-key_key.boosted-brightness.next:key.keyboard.unknown
+key_key.gammautils.gammaToggle:key.keyboard.g
+key_key.gammautils.increaseGamma:key.keyboard.unknown
+key_key.gammautils.decreaseGamma:key.keyboard.unknown
+key_key.gammautils.maxGamma:key.keyboard.unknown
+key_key.gammautils.minGamma:key.keyboard.unknown
+key_key.gammautils.nightVisionToggle:key.keyboard.unknown
+key_key.gammautils.increaseNightVision:key.keyboard.unknown
+key_key.gammautils.decreaseNightVision:key.keyboard.unknown
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
 soundCategory_music:0.0
