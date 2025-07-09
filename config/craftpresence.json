@@ -195,7 +195,7 @@
       "player_info_health": "Health: {player.health.current}/{player.health.max}",
       "world_info": "On {world.name}",
       "pack": "{pack.name}",
-      "ukupvp_version": "v2.0.1 on MC {general.version}"
+      "ukupvp_version": "v2.1.0-beta.1 on MC {general.version}"
     }
   }
 }
