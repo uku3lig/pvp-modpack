@@ -1,13 +1,13 @@
 name = "CustomHud"
-filename = "custom_hud-4.0.0-beta.9+1.21.5.jar"
+filename = "custom_hud-4.0.0-beta.11+1.21.6-uku.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6jis0UTI/versions/THYrww9u/custom_hud-4.0.0-beta.9%2B1.21.5.jar"
-hash-format = "sha512"
-hash = "bc192b1ba3a8c29449371d12375acb0a227089e0a7064484fbb037273acef6b70afed1e16590a6bcc189846b04f3dd378a2f7b31b6ef0030790f887839e84c0e"
+url = "https://github.com/uku3lig/CustomHUD/releases/download/v4.0.0-beta.11%2B1.21.6-uku/custom_hud-4.0.0-beta.11+1.21.6-uku.jar"
+hash-format = "sha256"
+hash = "20c82bb56f347b11b97b5f09e3cd5f1b5a7ee90b633862d2133700e74cfbee2d"
 
 [update]
 [update.modrinth]
 mod-id = "6jis0UTI"
-version = "THYrww9u"
+version = ""
