@@ -3,6 +3,6 @@ filename = "ukupvp-resources.zip"
 side = "client"
 
 [download]
-url = "https://github.com/uku3lig/ukupvp-resources/releases/download/v1/ukupvp-resources.zip"
-hash-format = "sha1"
-hash = "c4352a2d0e2e4f7ef041b164367b9dea833021f1"
+url = "https://github.com/uku3lig/ukupvp-resources/releases/download/v2/ukupvp-resources.zip"
+hash-format = "sha256"
+hash = "114a83c551b19e17fce6632b7c9b3f3e2b6e200d6451ab8fdffcbc4419f7ca31"
