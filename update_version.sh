@@ -3,7 +3,7 @@
 PACK_FILE="pack.toml"
 TO_EDIT=(
     "pack.toml"
-    "config/isxander-main-menu-credits.json"
+    "config/fancymenu/customization/title_screen_layout.txt"
     "config/craftpresence.json"
 )
 

@@ -10,7 +10,40 @@ file = "config/craftpresence.json"
 file = "config/fabric_loader_dependencies.json"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
+file = "config/fancymenu/assets/avatarhead-16.png"
+
+[[files]]
+file = "config/fancymenu/assets/cropped-32.png"
+
+[[files]]
+file = "config/fancymenu/assets/cropped-96.icns"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
@@ -166,6 +199,10 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 metafile = true
 
@@ -190,11 +227,15 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/main-menu-credits.pw.toml"
+file = "mods/melody.pw.toml"
 metafile = true
 
 [[files]]
