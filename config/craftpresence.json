@@ -1,21 +1,19 @@
 {
-  "_README": "https://gitlab.com/CDAGaming/CraftPresence/-/wikis/home",
-  "_SOURCE": "https://gitlab.com/CDAGaming/CraftPresence",
-  "_schemaVersion": 5,
-  "_lastMCVersionId": 763,
+  "_schemaVersion": 7,
+  "_lastMCVersionId": 772,
   "generalSettings": {
     "detectATLauncherInstance": false,
     "detectCurseManifest": false,
     "detectMultiMCManifest": false,
     "detectMCUpdaterInstance": false,
     "detectTechnicPack": false,
+    "detectModrinthPack": true,
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
     "clientId": "889182739255918673",
     "defaultIcon": "grass",
     "enableJoinRequests": false,
-    "partyPrivacyLevel": 1,
     "preferredClientLevel": 3,
     "resetTimeOnInit": false,
     "autoRegister": false
@@ -44,7 +42,9 @@
       "default": {
         "textOverride": "Playing on {server.motd.raw}"
       }
-    }
+    },
+    "pingRateInterval": 5,
+    "pingRateUnit": "minutes"
   },
   "statusMessages": {
     "mainMenuData": {
@@ -58,19 +58,19 @@
     },
     "singleplayerData": {
       "textOverride": "Playing without friends"
+    },
+    "realmData": {
+      "textOverride": "Playing on {server.motd.raw}"
     }
   },
   "advancedSettings": {
     "enablePerGui": false,
     "enablePerItem": false,
     "enablePerEntity": false,
-    "renderTooltips": true,
-    "formatWords": true,
+    "formatWords": false,
     "debugMode": false,
     "verboseMode": false,
     "refreshRate": 2,
-    "roundSize": 3,
-    "includeExtraGuiClasses": false,
     "allowPlaceholderPreviews": false,
     "guiSettings": {
       "fallbackGuiIcon": "grass",
@@ -98,66 +98,15 @@
     },
     "allowEndpointIcons": true,
     "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short != null ? server.address.short : server.address.full}",
-    "playerSkinEndpoint": "https://mc-heads.net/avatar/{player.uuid.short != null ? player.uuid.short : player.name}"
+    "playerSkinEndpoint": "https://mc-heads.net/avatar/{player.uuid.full != null ? player.uuid.full : player.name}",
+    "allowDuplicatePackets": false,
+    "maxConnectionAttempts": 10,
+    "enableClassGraph": false
   },
   "accessibilitySettings": {
-    "tooltipBackground": {
-      "start": {
-        "red": 16,
-        "green": 0,
-        "blue": 16,
-        "alpha": 240
-      }
-    },
-    "tooltipBorder": {
-      "start": {
-        "red": 80,
-        "green": 0,
-        "blue": 255,
-        "alpha": 80
-      },
-      "end": {
-        "red": 40,
-        "green": 0,
-        "blue": 127,
-        "alpha": 80
-      }
-    },
-    "guiBackground": {
-      "start": {
-        "red": 64,
-        "green": 64,
-        "blue": 64,
-        "alpha": 255
-      },
-      "texLocation": "minecraft:textures/gui/options_background.png"
-    },
-    "worldGuiBackground": {
-      "start": {
-        "red": 16,
-        "green": 16,
-        "blue": 16,
-        "alpha": 192
-      },
-      "end": {
-        "red": 16,
-        "green": 16,
-        "blue": 16,
-        "alpha": 208
-      }
-    },
-    "buttonBackground": {
-      "start": {
-        "red": 255,
-        "green": 255,
-        "blue": 255,
-        "alpha": 255
-      },
-      "texLocation": "minecraft:textures/gui/widgets.png"
-    },
     "languageId": "en_us",
     "stripTranslationColors": false,
-    "showLoggingInChat": false,
+    "stripTranslationFormatting": false,
     "stripExtraGuiElements": false,
     "configKeyCode": 96
   },
@@ -165,11 +114,14 @@
     "presenceData": {
       "enabled": true,
       "useAsMain": false,
+      "isInstance": false,
+      "activityType": 0,
+      "partyPrivacy": 1,
       "details": "{menu.message != null ? menu.message : ''}",
       "gameState": "{server.message != null ? server.message : custom.ukupvp_version}",
       "largeImageKey": "{menu.icon != null ? menu.icon : (server.icon != null ? server.icon : '')}",
       "largeImageText": "{server.message != null ? custom.ukupvp_version : 'read if cute'}",
-      "smallImageKey": "{player.name != null ? player.name : ''}",
+      "smallImageKey": "{player.icon}",
       "smallImageText": "{player.name != null ? player.name : 'unknown player'}",
       "startTimestamp": "{data.general.time}",
       "endTimestamp": "",
@@ -180,12 +132,8 @@
         }
       }
     },
-    "dynamicIcons": {
-      "default": "https://via.placeholder.com/256.png",
-      "uku3lig": "https://mc-heads.net/avatar/6553509f66d34041875f164236e42e84"
-    },
+    "dynamicIcons": {},
     "dynamicVariables": {
-      "default": "Example Text",
       "mods": "{general.mods} Mod(s)",
       "player_info_coordinate": "At {player.position.x}, {player.position.z}",
       "players": "{server.players.current} / {server.players.max} Players",
@@ -193,9 +141,9 @@
       "player_info_items": "Items: {item.main_hand.message}",
       "player_info_out": "As {player.name}",
       "player_info_health": "Health: {player.health.current}/{player.health.max}",
+      "ukupvp_version": "v2.1.0-beta.1 on MC {general.version}",
       "world_info": "On {world.name}",
-      "pack": "{pack.name}",
-      "ukupvp_version": "v2.1.0-beta.1 on MC {general.version}"
+      "pack": "{pack.name}"
     }
   }
 }
