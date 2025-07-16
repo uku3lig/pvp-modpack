@@ -61,6 +61,9 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 file = "config/yosbr/config/healthindicator.toml"
 
 [[files]]
+file = "config/yosbr/config/ias.json"
+
+[[files]]
 file = "config/yosbr/config/inspecio.json"
 
 [[files]]
@@ -172,6 +175,10 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/in-game-account-switcher.pw.toml"
 metafile = true
 
 [[files]]
