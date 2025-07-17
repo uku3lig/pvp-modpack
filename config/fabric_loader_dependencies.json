@@ -1,7 +1,17 @@
 {
   "version": 1,
   "overrides": {
-    "entityculling": {
+    "ias": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "immediatelyfast": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "resourcepackoverrides": {
       "-depends": {
         "minecraft": ""
       }
