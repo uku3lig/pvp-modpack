@@ -1,13 +1,13 @@
 name = "TierTagger (View other tiers!)"
-filename = "TierTagger-2.2.1+mc1.21.6.jar"
+filename = "TierTagger-2.3.0+mc1.21.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dpkYdLu5/versions/nfrCPy2I/TierTagger-2.2.1%2Bmc1.21.6.jar"
+url = "https://cdn.modrinth.com/data/dpkYdLu5/versions/pGcopPKx/TierTagger-2.3.0%2Bmc1.21.9.jar"
 hash-format = "sha512"
-hash = "07e0af6a0039494589e1657b52525c4fc7d20fe5f41855e43c0021a9293f9e539379432ff2a3ba8024c45e059017b691baec7b7c63c386ee82e74f50f7075cc1"
+hash = "4b3509d7c3ba78f8a46f2b173d42b7d5a0d36b4c194bb6049d8c74d39e4c048e2e5d53ddde139829a37ae036117d81164217e59baa1a41ae422bfe067382f274"
 
 [update]
 [update.modrinth]
 mod-id = "dpkYdLu5"
-version = "nfrCPy2I"
+version = "pGcopPKx"

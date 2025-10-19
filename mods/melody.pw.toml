@@ -1,13 +1,13 @@
 name = "Melody"
-filename = "melody_fabric_1.0.12_MC_1.21.6.jar"
+filename = "melody_fabric_1.0.13_MC_1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CVT4pFB2/versions/NsXvHOnn/melody_fabric_1.0.12_MC_1.21.6.jar"
+url = "https://cdn.modrinth.com/data/CVT4pFB2/versions/2YEyhNcZ/melody_fabric_1.0.13_MC_1.21.10.jar"
 hash-format = "sha512"
-hash = "5dc426663721bbacb9ea90ea559dba4e5a0acbb361978d6984376147cb66d9c229cdf80cd44d7d0989c804b22ceb5ed51410cadd3fbfdd5cba1eb55c0df613a9"
+hash = "d57f14565354d2194040ec267f53e4d02ef69dddfe2e6415839bedd9da23f9a711d1a646a61647be5f2095b6f5cb5cb843210556e4dc010e42efda4ff6a4bf56"
 
 [update]
 [update.modrinth]
 mod-id = "CVT4pFB2"
-version = "NsXvHOnn"
+version = "2YEyhNcZ"
