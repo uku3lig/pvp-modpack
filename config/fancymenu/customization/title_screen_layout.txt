@@ -219,7 +219,7 @@ element {
 
 element {
   interactable = true
-  source = %#c6a0f6%uku's pvp modpack%#% &a2.1.4%n%Made with &c❤&r by %#c6a0f6%uku%#%
+  source = %#c6a0f6%uku's pvp modpack%#% &a2.2.0%n%Made with &c❤&r by %#c6a0f6%uku%#%
   source_mode = direct
   shadow = true
   scale = 1.0
