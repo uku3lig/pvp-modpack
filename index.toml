@@ -287,10 +287,6 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/tiertagger.pw.toml"
 metafile = true
 
