@@ -219,7 +219,7 @@ element {
 
 element {
   interactable = true
-  source = %#c6a0f6%uku's pvp modpack%#% &a2.2.0%n%Made with &c❤&r by %#c6a0f6%uku%#%
+  source = %#c6a0f6%uku's pvp modpack%#% &a2.3.0%n%Made with &c❤&r by %#c6a0f6%uku%#%
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -841,8 +841,8 @@ vanilla_button {
   stretch_x = false
   stretch_y = false
   stay_on_screen = true
-  element_loading_requirement_container_identifier = 13d5d15e-340b-46b8-90f4-222c08e8790e-1752683945437
-  [loading_requirement_container_meta:13d5d15e-340b-46b8-90f4-222c08e8790e-1752683945437] = [groups:][instances:]
+  element_loading_requirement_container_identifier = 13d5d15e-340b-46b8-90f4-2.3.08e8790e-1752683945437
+  [loading_requirement_container_meta:13d5d15e-340b-46b8-90f4-2.3.08e8790e-1752683945437] = [groups:][instances:]
   enable_parallax = false
   parallax_intensity_v2 = 0.5
   invert_parallax = false
