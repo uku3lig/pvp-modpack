@@ -148,6 +148,9 @@ file = "config/yosbr/config/xaerominimap.txt"
 file = "config/yosbr/config/zoomify.json"
 
 [[files]]
+file = "config/yosbr/debug-profile.json"
+
+[[files]]
 file = "config/yosbr/options.txt"
 
 [[files]]
@@ -176,10 +179,6 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/customhud.pw.toml"
 metafile = true
 
 [[files]]

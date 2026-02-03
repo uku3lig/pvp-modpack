@@ -1,10 +1,10 @@
-version:4325
+version:4671
 autoJump:false
 enableVsync:false
 directionalAudio:true
 bobView:false
 fov:0.5
-gamma:12.0
+gamma:5.0
 maxFps:260
 fovEffectScale:0.0
 guiScale:2
@@ -15,11 +15,9 @@ advancedItemTooltips:true
 operatorItemsTab:true
 onlyShowSecureChat:false
 tutorialStep:none
+reducedDebugInfo:false
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
-key_key.custom_hud.enable:key.keyboard.unknown
-key_key.custom_hud.cycle_profiles:key.keyboard.unknown
-key_key.custom_hud.show_errors:key.keyboard.unknown
 key_key.inventoryhud.toggle:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.unknown
 key_key.durabilityviewer.showhide:key.keyboard.unknown
