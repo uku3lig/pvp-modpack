@@ -239,10 +239,6 @@ file = "mods/melody.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 metafile = true
 
