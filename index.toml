@@ -258,6 +258,10 @@ file = "mods/numeral-ping.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/potioncounter.pw.toml"
 metafile = true
 
