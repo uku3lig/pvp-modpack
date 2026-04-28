@@ -1,13 +1,13 @@
 name = "TierTagger (View other tiers!)"
-filename = "TierTagger-2.4.0+mc1.21.11.jar"
+filename = "tiertagger-fabric-2.5.0+mc26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dpkYdLu5/versions/bLNx9oKh/TierTagger-2.4.0%2Bmc1.21.11.jar"
+url = "https://cdn.modrinth.com/data/dpkYdLu5/versions/Fn5utBWo/tiertagger-fabric-2.5.0%2Bmc26.1.jar"
 hash-format = "sha512"
-hash = "f99f345e85d60c308bb1267f6a74b2adefdcfbc1ad1e73fe84f582be67b4505aee4523ba55604f32759a577a4dee5bf65c4fddd99b6c06d88d17b5f5b2311d2d"
+hash = "8f4872139a9a3b6f40eeb08e34fab6f5033c9891a01f136042c26c58099ee9b7bcc2897cc418e60a8bd05449d229acbcb627fedc7e94d7a6f834ad26a156daa3"
 
 [update]
 [update.modrinth]
 mod-id = "dpkYdLu5"
-version = "bLNx9oKh"
+version = "Fn5utBWo"

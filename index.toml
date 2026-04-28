@@ -158,10 +158,6 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/betterhurtcam.pw.toml"
 metafile = true
 
