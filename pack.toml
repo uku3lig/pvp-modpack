@@ -1,6 +1,6 @@
 name = "ukus-pvp-modpack"
 author = "uku"
-version = "2.3.0+mc1.21.11"
+version = "2.3.0+mc26.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -8,8 +8,9 @@ file = "index.toml"
 hash-format = "sha256"
 
 [versions]
-fabric = "0.18.4"
-minecraft = "1.21.11"
+fabric = "0.19.2"
+minecraft = "26.1.2"
 
 [options]
+acceptable-game-versions = ["26.1", "26.1.1", "26.1.2"]
 no-internal-hashes = true
