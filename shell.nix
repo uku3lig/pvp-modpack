@@ -1,5 +1,10 @@
-{pkgs ? import <nixpkgs> {}}:
+{
+  pkgs ? import <nixpkgs> { },
+}:
 with pkgs;
-  mkShellNoCC {
-    packages = [packwiz yq];
-  }
+mkShellNoCC {
+  packages = [
+    packwiz
+    yq
+  ];
+}
