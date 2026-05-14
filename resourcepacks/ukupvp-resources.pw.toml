@@ -6,3 +6,9 @@ side = "client"
 url = "https://github.com/uku3lig/ukupvp-resources/releases/download/v4/ukupvp-resources.zip"
 hash-format = "sha256"
 hash = "7ed22fee42b2d3183e23c0db5556d8db42583ed19577871a47023549cd6b9f58"
+
+[update]
+[update.github]
+regex = "^.+\\.zip$"
+slug = "uku3lig/ukupvp-resources"
+tag = "v4"
