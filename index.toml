@@ -37,10 +37,31 @@ file = "config/fancymenu/legacy_checklist.txt"
 file = "config/fancymenu/options.txt"
 
 [[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+
+[[files]]
 file = "config/fancymenu/ui_themes/dark.json"
 
 [[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+
+[[files]]
 file = "config/fancymenu/ui_themes/light.json"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
