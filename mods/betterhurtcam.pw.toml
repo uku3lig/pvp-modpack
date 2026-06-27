@@ -1,13 +1,13 @@
 name = "BetterHurtCam"
-filename = "betterhurtcam-fabric-1.13.0+mc26.1.jar"
+filename = "betterhurtcam-fabric-1.14.0+mc26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/o4y0N2hu/versions/5Stkrpzp/betterhurtcam-fabric-1.13.0%2Bmc26.1.jar"
+url = "https://cdn.modrinth.com/data/o4y0N2hu/versions/TfKbExBU/betterhurtcam-fabric-1.14.0%2Bmc26.2.jar"
 hash-format = "sha512"
-hash = "81c3680ac12094f74e76934ea2c41a660bc216f3ea76d4ff0df54780018a157ff9caa915eda16f62a7988f042c1d8a6ce2d25901571e0393ce0c4a6352295cd7"
+hash = "e3464f866b8c8c9fdca334508a738ffb32c2ca33fad557e785f97231ccb72f273a78f520a10be823cfdccb7b281a65d69817c41566236733dc09c25668f32128"
 
 [update]
 [update.modrinth]
 mod-id = "o4y0N2hu"
-version = "5Stkrpzp"
+version = "TfKbExBU"

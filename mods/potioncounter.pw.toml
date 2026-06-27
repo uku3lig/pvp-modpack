@@ -1,13 +1,13 @@
 name = "PotionCounter"
-filename = "potioncounter-fabric-1.11.0+mc26.1.jar"
+filename = "potioncounter-fabric-1.12.0+mc26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JzdjByS4/versions/hQBrPzQ6/potioncounter-fabric-1.11.0%2Bmc26.1.jar"
+url = "https://cdn.modrinth.com/data/JzdjByS4/versions/cnijxowp/potioncounter-fabric-1.12.0%2Bmc26.2.jar"
 hash-format = "sha512"
-hash = "78ee241217bf5e743f6bf20699f416667fab4326041e13faf68e1609656401c76b820cda43988db12bb3bc370ba7ef68881082ddbcdba212dfe18ac024afa448"
+hash = "144dbbb3acb4c02dfdd0edf9c14290f742362b76aa4c66b826798d5d84cf7bccc79c21e5d2bb72722a8227d95b6d14d703a5ca247a55928c7971962d8be789de"
 
 [update]
 [update.modrinth]
 mod-id = "JzdjByS4"
-version = "hQBrPzQ6"
+version = "cnijxowp"
