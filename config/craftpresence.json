@@ -141,7 +141,7 @@
       "player_info_items": "Items: {item.main_hand.message}",
       "player_info_out": "As {player.name}",
       "player_info_health": "Health: {player.health.current}/{player.health.max}",
-      "ukupvp_version": "v2.4.0 on MC {general.version}",
+      "ukupvp_version": "v2.4.1 on MC {general.version}",
       "world_info": "On {world.name}",
       "pack": "{pack.name}"
     }
