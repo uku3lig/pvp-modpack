@@ -70,55 +70,13 @@ file = "config/fancymenu/user_variables.db"
 file = "config/resourcepackoverrides.json"
 
 [[files]]
-file = "config/yosbr/config/appleskin.json5"
-
-[[files]]
-file = "config/yosbr/config/armor_hud.json"
-
-[[files]]
 file = "config/yosbr/config/betterhurtcam.toml"
 
 [[files]]
-file = "config/yosbr/config/c2me.toml"
-
-[[files]]
-file = "config/yosbr/config/capes.json5"
-
-[[files]]
-file = "config/yosbr/config/custom-hud/config.json"
-
-[[files]]
-file = "config/yosbr/config/custom-hud/profile1.txt"
-
-[[files]]
-file = "config/yosbr/config/durabilityviewer.json"
-
-[[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-
-[[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-
-[[files]]
-file = "config/yosbr/config/exordium.json"
-
-[[files]]
-file = "config/yosbr/config/fastload.properties"
+file = "config/yosbr/config/dynamic_fps.json"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
-
-[[files]]
-file = "config/yosbr/config/healthindicator.toml"
-
-[[files]]
-file = "config/yosbr/config/ias.json"
-
-[[files]]
-file = "config/yosbr/config/inspecio.json"
 
 [[files]]
 file = "config/yosbr/config/inventoryhud.json"
@@ -127,10 +85,7 @@ file = "config/yosbr/config/inventoryhud.json"
 file = "config/yosbr/config/modernfix-mixins.properties"
 
 [[files]]
-file = "config/yosbr/config/moreculling.toml"
-
-[[files]]
-file = "config/yosbr/config/multiconnect/config.json"
+file = "config/yosbr/config/modmenu.json"
 
 [[files]]
 file = "config/yosbr/config/nowheel.toml"
@@ -139,22 +94,7 @@ file = "config/yosbr/config/nowheel.toml"
 file = "config/yosbr/config/numeralping.json"
 
 [[files]]
-file = "config/yosbr/config/potioncounter.toml"
-
-[[files]]
-file = "config/yosbr/config/shulkerboxtooltip.json5"
-
-[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-
-[[files]]
-file = "config/yosbr/config/threadtweak.json"
-
-[[files]]
-file = "config/yosbr/config/totemcounter.toml"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
