@@ -195,10 +195,6 @@ file = "mods/craftpresence.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
@@ -239,10 +235,6 @@ file = "mods/inventory-hud-forge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 metafile = true
 
@@ -276,10 +268,6 @@ metafile = true
 
 [[files]]
 file = "mods/potioncounter.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
