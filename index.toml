@@ -195,6 +195,10 @@ file = "mods/craftpresence.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cull-fewer-leaves.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 metafile = true
 
@@ -219,6 +223,10 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 metafile = true
 
@@ -235,6 +243,10 @@ file = "mods/inventory-hud-forge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 metafile = true
 
@@ -247,11 +259,11 @@ file = "mods/melody.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
+file = "mods/modernfix-mvus.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
+file = "mods/modmenu.pw.toml"
 metafile = true
 
 [[files]]
@@ -264,6 +276,14 @@ metafile = true
 
 [[files]]
 file = "mods/numeral-ping.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
 metafile = true
 
 [[files]]
