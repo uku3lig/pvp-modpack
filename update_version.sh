@@ -25,6 +25,7 @@ NEW_VERSION=$1
 # query pack file for version with tomlq
 OLD_VERSION=$(tomlq ".version" $PACK_FILE | tr -d '"' | sed -n 's/\(.*\)+.*$/\1/p')
 echo "$OLD_VERSION -> $NEW_VERSION"
+OLD_VERSION=$(echo "$OLD_VERSION" | sed 's/\./\\./g')
 
 # replace old version with new in all files
 for file in "${TO_EDIT[@]}"
