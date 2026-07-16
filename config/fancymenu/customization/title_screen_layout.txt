@@ -487,7 +487,7 @@ element {
 
 element {
   interactable = true
-  source = %#c6a0f6%uku's pvp modpack%#% %#55FF55%2.4.1%#%%n%Made with %#FF5555%❤%#% by %#c6a0f6%uku%#%
+  source = %#c6a0f6%uku's pvp modpack%#% %#55FF55%2.5.0%#%%n%Made with %#FF5555%❤%#% by %#c6a0f6%uku%#%
   source_mode = direct
   shadow = true
   enable_scrolling = true
