@@ -1,13 +1,13 @@
 name = "Optimized Block Entities"
-filename = "obe+26.2-1.1.33.jar"
+filename = "obe+26.2-1.1.34.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AtOSAunf/versions/CcziOU5b/obe%2B26.2-1.1.33.jar"
+url = "https://cdn.modrinth.com/data/AtOSAunf/versions/M0beEESb/obe%2B26.2-1.1.34.jar"
 hash-format = "sha512"
-hash = "b9e98823c92f91b8ee7461b9bf65cb936dd25e3502d431e81c4bac7ad71a3a74abde551a2b7e2db28ed4ee4de16b84085d4da8eeb632cedff9e8030db4d80771"
+hash = "a624df83274b2d79fc44d87f3d759a5951b26f67e79aed0c88196dee1af2cbb048b722f8c3205a41a2fb0adfe946b1d26d5f2e1db27eeca4df02cda76c97c024"
 
 [update]
 [update.modrinth]
 mod-id = "AtOSAunf"
-version = "CcziOU5b"
+version = "M0beEESb"

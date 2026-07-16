@@ -1,14 +1,14 @@
 name = "Why Am I on Fire?"
-filename = "whyamionfire-1.4.0-uku+mc26.1.jar"
+filename = "whyamionfire-1.4.1-uku+mc26.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/uku3lig/Why-Am-I-on-Fire/releases/download/1.4.0-uku/whyamionfire-1.4.0-uku%2Bmc26.1.jar"
+url = "https://github.com/uku3lig/Why-Am-I-on-Fire/releases/download/1.4.1-uku/whyamionfire-1.4.1-uku%2Bmc26.2.jar"
 hash-format = "sha256"
-hash = "c2b5df79a5441b82cb639290d8a6e887bbd6de03d2b2ecd3e130347094e18219"
+hash = "1741120fec63d1b7535b1da7e9dbdd9b10f41014572a3cd326bc40332b957cf0"
 
 [update]
 [update.github]
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "uku3lig/Why-Am-I-On-Fire"
-tag = "1.4.0-uku"
+tag = "1.4.1-uku"
