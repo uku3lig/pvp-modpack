@@ -215,6 +215,10 @@ file = "mods/nowheel.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/numeral-ping.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/obe.pw.toml"
 metafile = true
 
