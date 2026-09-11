@@ -119,6 +119,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/better-block-entities.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/betterhurtcam.pw.toml"
 metafile = true
 
@@ -216,10 +220,6 @@ metafile = true
 
 [[files]]
 file = "mods/numeral-ping.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/obe.pw.toml"
 metafile = true
 
 [[files]]
