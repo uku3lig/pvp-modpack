@@ -235,6 +235,10 @@ file = "mods/resource-pack-overrides.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 metafile = true
 
