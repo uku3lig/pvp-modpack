@@ -1,13 +1,13 @@
 name = "CraftPresence"
-filename = "CraftPresence-2.7.1+26.2-fabric.jar"
+filename = "CraftPresence-2.7.1+26.3-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/GjRzcZtU/CraftPresence-2.7.1%2B26.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/DFqQfIBR/versions/uW26UNbN/CraftPresence-2.7.1%2B26.3-fabric.jar"
 hash-format = "sha512"
-hash = "f5c556e6d6e24cc262ebb209c0c4e34f9f936959f164db568f51034bd7df9602686335f7de61a4be7de9103d5749c484784edfdd592dcc6f872fc4ed86b3d248"
+hash = "2c68ee2a0c1c601fc1a394b8a16324bd22fca27150badb5b4555044ed923d437805a5ba7b831e49f884375d95e199a3ad82f81c3ef0bdf9d0e753e8ae5e7dd4d"
 
 [update]
 [update.modrinth]
 mod-id = "DFqQfIBR"
-version = "GjRzcZtU"
+version = "uW26UNbN"
