@@ -267,10 +267,6 @@ file = "mods/unilib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/whoami.pw.toml"
 metafile = true
 
